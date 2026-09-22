@@ -7,10 +7,20 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: true
 
 jobs:
   update:
     runs-on: ubuntu-latest
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: Download repository
@@ -35,3 +45,22 @@ jobs:
           git add kit_feed.yml kit_feed_report.csv
           git diff --cached --quiet || git commit -m "Update KIT feed"
           git push
+
+      - name: Prepare feed for GitHub Pages
+        run: |
+          mkdir -p public
+          cp kit_feed.yml public/kit_feed.xml
+          touch public/.nojekyll
+          printf '<!doctype html><html><body><a href="kit_feed.xml">KIT feed</a></body></html>' > public/index.html
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload GitHub Pages files
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+      - name: Publish GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
