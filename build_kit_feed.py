@@ -80,8 +80,10 @@ def read_xlsx(path: Path) -> list[dict[str, str]]:
 
 def norm_article(value: str) -> str:
     value = (value or "").strip()
-    if len(value) >= 2 and value[0] == value[-1] == '"':
-        value = value[1:-1]
+    # Source files may already contain one or more pairs of quotes.
+    # Internally keep the bare value; KIT output is quoted exactly once.
+    while len(value) >= 2 and value[0] == value[-1] and value[0] in {'"', "'"}:
+        value = value[1:-1].strip()
     return value.strip()
 
 
@@ -206,6 +208,7 @@ def build_feed(items, supplier, output: Path, report: Path):
         for item in items:
             article_raw = item.get("Артикул", "")
             article = norm_article(article_raw)
+            kit_article = f'"{article}"'
             ext_id = (item.get("Внешний ID: YML") or article_raw or article).strip()
             src = supplier.get(article)
             if src:
@@ -238,15 +241,18 @@ def build_feed(items, supplier, output: Path, report: Path):
                 fh.write(f'<picture>{xtext(pic)}</picture>\n')
             if vendor:
                 fh.write(f'<vendor>{xtext(vendor)}</vendor>\n')
+            # KIT uses the standard YML vendorCode field for cross-source
+            # matching by its fixed "Артикул" parameter.
+            fh.write(f'<vendorCode>{xtext(kit_article)}</vendorCode>\n')
             desc = clean_description(item.get("Описание товара") or item.get("Описание", ""))
             desc = ensure_description_weight(desc, weight)
             if desc:
                 fh.write(f'<description>{xtext(desc)}</description>\n')
-            fh.write(f'<param name="articul">{xtext(article_raw or article)}</param>\n')
+            fh.write(f'<param name="articul">{xtext(kit_article)}</param>\n')
             for pname, group, pvalue in params:
                 group_attr = f' group={quoteattr(group)}' if group else ""
                 fh.write(f'<param name={quoteattr(pname)}{group_attr}>{xtext(pvalue)}</param>\n')
-            fh.write(f'<quantity location="Москва">{moscow}</quantity><quantity location="Владивосток">{vlad}</quantity>\n</offer>\n')
+            fh.write(f'<quantity location="Основной склад">{moscow}</quantity><quantity location="Владивосток">{vlad}</quantity>\n</offer>\n')
             writer.writerow([article, item.get("KIT ID*") or item.get("ID", ""), "да" if src else "нет", moscow, vlad, len(pictures), len(params)])
         fh.write("</offers>\n</shop>\n</yml_catalog>\n")
     return {"kit": len(items), "matched": matched, "absent": absent, "supplier": len(supplier), "photos": normalized_photos}
