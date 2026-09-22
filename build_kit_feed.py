@@ -243,10 +243,10 @@ def build_feed(items, supplier, output: Path, report: Path):
                 fh.write(f'<vendor>{xtext(vendor)}</vendor>\n')
             # KIT uses the standard YML vendorCode field for cross-source
             # matching by its fixed "Артикул" parameter.
-            # KIT reads the standard YML vendorCode as the matching article.
-            # Keep it bare here; the original KIT representation remains in
-            # offer id and in the auxiliary articul parameter.
-            fh.write(f'<vendorCode>{xtext(article)}</vendorCode>\n')
+            # Diagnostic for KIT cross-source matching: KIT may map the YML
+            # model field to its fixed "Артикул" field. Keep exactly the
+            # original one-pair-of-quotes representation used in KIT.
+            fh.write(f'<model>{xtext(kit_article)}</model>\n')
             desc = clean_description(item.get("Описание товара") or item.get("Описание", ""))
             desc = ensure_description_weight(desc, weight)
             if desc:
