@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-24 07:18">
+<yml_catalog date="2026-10-25 07:36">
 <shop>
 <name>ТД МК — обновление KIT</name><company>ТД МК</company><url>https://td-mk.ru/</url>
 <currencies><currency id="RUR" rate="1"/></currencies>
@@ -3840,7 +3840,7 @@ MREF60FVEL-T. Бренд: Marine Rocket. Страна производителя
 Пример:
 Гребной винт с шагом 500 мм (20 дюймов) при каждом полном обороте должен был бы передвигать судно на 0,5 м при условии отсутствия скольжения (то есть если бы винт ввинчивался в воду, как в твердую среду). Но поскольку винт отбрасывает воду назад, истинное перемещение судна будет меньше.</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/grebnoy-vint-3x9-1-4x8-marine-rocket-11286756.html</param>
-<quantity location="Основной склад">10</quantity><quantity location="Владивосток">5</quantity>
+<quantity location="Основной склад">11</quantity><quantity location="Владивосток">5</quantity>
 </offer>
 <offer id='"11286757"' available="true">
 <name>Гребной винт 3x9-1/4x9, Marine Rocket</name><price>3351</price><currencyId>RUR</currencyId>
@@ -3974,7 +3974,7 @@ MREF60FVEL-T. Бренд: Marine Rocket. Страна производителя
 Пример:
 Гребной винт с шагом 500 мм (20 дюймов) при каждом полном обороте должен был бы передвигать судно на 0,5 м при условии отсутствия скольжения (то есть если бы винт ввинчивался в воду, как в твердую среду). Но поскольку винт отбрасывает воду назад, истинное перемещение судна будет меньше.</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/grebnoy-vint-3x9-1-4x10-marine-rocket-11286758.html</param>
-<quantity location="Основной склад">24</quantity><quantity location="Владивосток">22</quantity>
+<quantity location="Основной склад">25</quantity><quantity location="Владивосток">22</quantity>
 </offer>
 <offer id='"11286759"' available="true">
 <name>Гребной винт 3x10-1/4x11, Marine Rocket</name><price>4524</price><currencyId>RUR</currencyId>
@@ -4945,7 +4945,7 @@ MREF60FVEL-T. Бренд: Marine Rocket. Страна производителя
 Пример:
 Гребной винт с шагом 500 мм (20 дюймов) при каждом полном обороте должен был бы передвигать судно на 0,5 м при условии отсутствия скольжения (то есть если бы винт ввинчивался в воду, как в твердую среду). Но поскольку винт отбрасывает воду назад, истинное перемещение судна будет меньше.</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/grebnoy-vint-3x11-1-2x10-marine-rocket-00179769.html</param>
-<quantity location="Основной склад">1</quantity><quantity location="Владивосток">0</quantity>
+<quantity location="Основной склад">2</quantity><quantity location="Владивосток">0</quantity>
 </offer>
 <offer id='"00181763"' available="true">
 <name>Гребной винт 3x16x20R Watergrip, Marine Rocket</name><price>24073</price><currencyId>RUR</currencyId>
@@ -17313,7 +17313,7 @@ DP280-290, DP-A / E. Серия может быть установлена ка�
 <param name="Кол-во в зав.упаковке" group="Характеристики">4</param>
 <param name="Объём бака" group="Характеристики">22</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/bak-toplivnyy-vertikalnyy-perenosnoy-bez-ukazatelya-urovnya-v-komplekte-s-perehodnikom-elochka-22-l-00120291.html</param>
-<quantity location="Основной склад">2</quantity><quantity location="Владивосток">0</quantity>
+<quantity location="Основной склад">3</quantity><quantity location="Владивосток">0</quantity>
 </offer>
 <offer id='"00120434"' available="true">
 <name>Бак топливный 23 л без указателя уровня, без переходника</name><price>4816</price><currencyId>RUR</currencyId>
@@ -20113,7 +20113,7 @@ Evinrude (4-15 лс): B4R4, B6R4, BR9.8R4, B15R4.</param>
 <param name="Дальность пучка света" group="Характеристики">300</param>
 <param name="Рабочее напряжение, DC" group="Характеристики">12</param>
 <param name="Кол-во в зав.упаковке" group="Характеристики">24</param>
-<quantity location="Основной склад">64</quantity><quantity location="Владивосток">52</quantity>
+<quantity location="Основной склад">63</quantity><quantity location="Владивосток">52</quantity>
 </offer>
 <offer id='"00120430"' available="true">
 <name>Прожектор светодиодный 20 диодов, 2100 лм, 12-54 В</name><price>26647</price><currencyId>RUR</currencyId>
@@ -28042,7 +28042,7 @@ Kohler: 359771</param>
 <param name="Страна производителя" group="Информация о производителе">США</param>
 <param name="Кол-во в зав.упаковке" group="Характеристики">15</param>
 <param name="Кол-во в зав. упаковке" group="Характеристики">15</param>
-<quantity location="Основной склад">58</quantity><quantity location="Владивосток">219</quantity>
+<quantity location="Основной склад">59</quantity><quantity location="Владивосток">219</quantity>
 </offer>
 <offer id='"00193291"' available="true">
 <name>Цепь якорная оцинкованная 10мм, DIN766, Marine Rocket</name><price>753</price><currencyId>RUR</currencyId>
@@ -34233,7 +34233,7 @@ HF207</param>
 <param name="Бренд" group="Информация о производителе">Suzuki</param>
 <param name="Производитель" group="Информация о производителе">Suzuki</param>
 <param name="Страна производителя" group="Информация о производителе">Япония</param>
-<quantity location="Основной склад">49</quantity><quantity location="Владивосток">145</quantity>
+<quantity location="Основной склад">45</quantity><quantity location="Владивосток">145</quantity>
 </offer>
 <offer id='"00193056"' available="true">
 <name>Фильтр масляный Suzuki DF25-70/DF25A-60A</name><price>2504</price><currencyId>RUR</currencyId>
@@ -34247,7 +34247,7 @@ HF207</param>
 <param name="Производитель" group="Информация о производителе">Suzuki</param>
 <param name="Страна производителя" group="Информация о производителе">Япония</param>
 <param name="Страна производства" group="Информация о производителе">Япония</param>
-<quantity location="Основной склад">25</quantity><quantity location="Владивосток">20</quantity>
+<quantity location="Основной склад">26</quantity><quantity location="Владивосток">19</quantity>
 </offer>
 <offer id='"11595130"' available="true">
 <name>Фильтр масляный Suzuki DF70A-140A, Recmar</name><price>866</price><currencyId>RUR</currencyId>
@@ -34541,7 +34541,7 @@ E40 - Российский рынок. Подвесные моторы: DF60, DF
 15410-87J3</param>
 <param name="Кол-во в зав. упаковке" group="Характеристики">1</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/filtr-toplivnyy-suzuki-df20-25v-twin-df40-140t-omax-00156757.html</param>
-<quantity location="Основной склад">22</quantity><quantity location="Владивосток">5</quantity>
+<quantity location="Основной склад">23</quantity><quantity location="Владивосток">5</quantity>
 </offer>
 <offer id='"00156758"' available="true">
 <name>Фильтр топливный Suzuki DF9.9B/15A-30A/70A-90A, Omax</name><price>782</price><currencyId>RUR</currencyId>
@@ -36462,23 +36462,11 @@ DF25A; 30A (с 2015 г.в.)</param>
 <offer id='"00199583"' available="true">
 <name>Помпа осушительная Marine Rocket, 1500GPH (6577.5 л/ч), 24 В</name><price>3482</price><currencyId>RUR</currencyId>
 <categoryId>136</categoryId>
-<picture>https://wsrv.nl/?url=https%3A%2F%2Fimages.1000size.ru%2Fuploads%2Fimages%2Fitems%2Fmax%2Fpompa-osushitelnaya-marine-rocket-1500gph-6577-5-l-ch-24-v_880765_704997258.jpg&amp;w=1200&amp;h=1200&amp;fit=contain&amp;bg=white&amp;output=jpg&amp;q=90</picture>
-<vendor>Marine Rocket</vendor>
+<picture>https://avatars.mds.yandex.net/get-yastore/18796383/2zsxs89znxqnh4prnlk4x99dtq2wlkhj/orig</picture>
 <model>&quot;00199583&quot;</model>
-<description>Помпа осушительная Marine Rocket, 1500GPH (6577.5 л/ч), 24 В. Производительность: 95. Высота подъема жидкости: 3. Диаметр патрубка: 29. Бренд: Marine Rocket. Страна производителя: Китай. Производительнoсть: 1500. Рабочее напряжение, DC: 24. Для провода: 1. Вес: 1310 г</description>
+<description>Помпа осушительная Marine Rocket, 1500GPH (6577.5 л/ч), 24 В. Производительность: 95. Высота подъема жидкости: 3. Диаметр патрубка: 29. Бренд: Marine Rocket. Страна производителя: Китай. Производительнoсть: 1500. Рабочее напряжение, DC: 24. Для провода: 1. Вес: 200 г</description>
 <param name="articul">&quot;00199583&quot;</param>
-<param name="picture">https://images.1000size.ru/uploads/images/items/max/pompa-osushitelnaya-marine-rocket-1500gph-6577-5-l-ch-24-v_880765_2148604053.jpg</param>
-<param name="picture">https://images.1000size.ru/uploads/images/items/max/pompa-osushitelnaya-marine-rocket-1500gph-6577-5-l-ch-24-v_880765_796781552.jpg</param>
-<param name="Производительность" group="Характеристики">95</param>
-<param name="Высота подъема жидкости" group="Характеристики">3</param>
-<param name="Диаметр патрубка" group="Характеристики">29</param>
-<param name="Бренд" group="Информация о производителе">Marine Rocket</param>
-<param name="Страна производителя" group="Информация о производителе">Китай</param>
-<param name="Производительнoсть" group="Характеристики">1500</param>
-<param name="Рабочее напряжение, DC" group="Характеристики">24</param>
-<param name="Для провода" group="Характеристики">1</param>
-<param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/pompa-osushitelnaya-marine-rocket-1500gph-6577-5-l-ch-24-v-00199583.html</param>
-<quantity location="Основной склад">2</quantity><quantity location="Владивосток">0</quantity>
+<quantity location="Основной склад">0</quantity><quantity location="Владивосток">0</quantity>
 </offer>
 <offer id='"00199585"' available="true">
 <name>Помпа осушительная Marine Rocket, 3000GPH (11355 л/ч), 24 В</name><price>5013</price><currencyId>RUR</currencyId>
@@ -66782,7 +66770,7 @@ MR20FH</param>
 11141-97JL0
 1114197JL
 11141-97JL</param>
-<quantity location="Основной склад">3</quantity><quantity location="Владивосток">12</quantity>
+<quantity location="Основной склад">2</quantity><quantity location="Владивосток">13</quantity>
 </offer>
 <offer id='"00198988"' available="true">
 <name>Подводный огонь, Green, AquaIDEA</name><price>44068</price><currencyId>RUR</currencyId>
@@ -104215,7 +104203,7 @@ Yamaha: 9.9F, 9.9, 15F - 1P1r = 1 искра на 1 оборот. Материа
 <param name="Диаметр стойки" group="Характеристики">75/65</param>
 <param name="Крепежные размеры" group="Характеристики">5&quot; х 5&quot;</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/stoyka-dlya-sideniy-waverider-amortiziruyuschaya-reguliruemaya-310-390-mm-00199760.html</param>
-<quantity location="Основной склад">4</quantity><quantity location="Владивосток">3</quantity>
+<quantity location="Основной склад">2</quantity><quantity location="Владивосток">3</quantity>
 </offer>
 <offer id='"00152556"' available="true">
 <name>Весло разборное 150 см, черное</name><price>1</price><currencyId>RUR</currencyId>
@@ -114598,10 +114586,10 @@ MREF130FEL-T</param>
 <model>&quot;00200524&quot;</model>
 <description>Прокладка под головку цилиндров Suzuki 40-60, MR. Применимость: Suzuki. Для моторов: 40-60. Бренд: Marine Rocket. Страна производителя: Китай. 4-тактные моторы: DF40S/50A/60A. Вес: 210 г</description>
 <param name="articul">&quot;00200524&quot;</param>
-<param name="Бренд" group="Информация о производителе">Marine Rocket</param>
-<param name="Страна производителя" group="Информация о производителе">Китай</param>
 <param name="Применимость" group="Применимость">Suzuki</param>
 <param name="Для моторов" group="Характеристики">40-60</param>
+<param name="Бренд" group="Информация о производителе">Marine Rocket</param>
+<param name="Страна производителя" group="Информация о производителе">Китай</param>
 <param name="4-тактные моторы" group="Характеристики">DF40S/50A/60A</param>
 <quantity location="Основной склад">5</quantity><quantity location="Владивосток">3</quantity>
 </offer>
@@ -128708,7 +128696,7 @@ Tohatsu: 101-00121-0, 3AB001210M</param>
 09168-10022
 091681002
 09168-1002</param>
-<quantity location="Основной склад">86</quantity><quantity location="Владивосток">1111</quantity>
+<quantity location="Основной склад">89</quantity><quantity location="Владивосток">1111</quantity>
 </offer>
 <offer id='"00008406"' available="true">
 <name>Прокладка под блок двигателя Suzuki DF90T-140T</name><price>1000</price><currencyId>RUR</currencyId>
@@ -129898,7 +129886,7 @@ Lectrotab, Lenco, Eltrim, Ultraflex, Minn Kota</param>
 <param name="Количество динамиков" group="Характеристики">2</param>
 <param name="Ток потребления, макс." group="Характеристики">13.7</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/audiosistema-boss-atv85b-11541963.html</param>
-<quantity location="Основной склад">0</quantity><quantity location="Владивосток">2</quantity>
+<quantity location="Основной склад">0</quantity><quantity location="Владивосток">1</quantity>
 </offer>
 <offer id='"11541962"' available="true">
 <name>Аудиосистема BOSS ATV30BRGB</name><price>41732</price><currencyId>RUR</currencyId>
@@ -145929,7 +145917,7 @@ DF300T, 4028 см³ (с 2006 по 2011 г.в.)</param>
 1740092J2
 17400-92J2</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/remkomplekt-pompy-suzuki-df100a-115a-140a-omax-00157199.html</param>
-<quantity location="Основной склад">4</quantity><quantity location="Владивосток">0</quantity>
+<quantity location="Основной склад">5</quantity><quantity location="Владивосток">0</quantity>
 </offer>
 <offer id='"00156718"' available="true">
 <name>Ремкомплект топливного насоса Suzuki DT8-15, Omax</name><price>668</price><currencyId>RUR</currencyId>
@@ -188647,7 +188635,7 @@ E40 - Российский рынок</param>
 1544090J0
 15440-90J0</param>
 <param name="Кол-во в зав. упаковке" group="Характеристики">1</param>
-<quantity location="Основной склад">0</quantity><quantity location="Владивосток">1</quantity>
+<quantity location="Основной склад">1</quantity><quantity location="Владивосток">1</quantity>
 </offer>
 <offer id='"00198246"' available="true">
 <name>Фильтр масляный Suzuki DF70A-140A/B</name><price>2760</price><currencyId>RUR</currencyId>
@@ -198152,7 +198140,7 @@ Yamaha: 697-44352-00, 6974435200, 697443520000, 6H3-44352-00, 6H3-44352-00-00, 6
 09482-00427
 094820042
 09482-0042</param>
-<quantity location="Основной склад">0</quantity><quantity location="Владивосток">102</quantity>
+<quantity location="Основной склад">0</quantity><quantity location="Владивосток">106</quantity>
 </offer>
 <offer id='"00184799"' available="true">
 <name>Концевик привального бруса, пластик</name><price>212</price><currencyId>RUR</currencyId>
