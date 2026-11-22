@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-21 09:51">
+<yml_catalog date="2026-11-22 09:48">
 <shop>
 <name>ТД МК — обновление KIT</name><company>ТД МК</company><url>https://td-mk.ru/</url>
 <currencies><currency id="RUR" rate="1"/></currencies>
@@ -20479,7 +20479,7 @@ Evinrude (4-15 лс): B4R4, B6R4, BR9.8R4, B15R4.</param>
 <param name="Ток максимальный" group="Характеристики">2</param>
 <param name="Рабочее напряжение, DC" group="Характеристики">12</param>
 <param name="Кол-во в зав.упаковке" group="Характеристики">36</param>
-<quantity location="Основной склад">109</quantity><quantity location="Владивосток">145</quantity>
+<quantity location="Основной склад">108</quantity><quantity location="Владивосток">145</quantity>
 </offer>
 <offer id='"00117860"' available="true">
 <name>Сигнал звуковой электрический врезной высокий тон</name><price>4528</price><currencyId>RUR</currencyId>
@@ -46768,7 +46768,7 @@ T71FC, T72FC, T73NR FC, T81FC, T82FC, T83NRFC. Длина троса: 5.49. Те
 <param name="Страна производителя" group="Информация о производителе">Греция</param>
 <param name="Кол-во в зав.упаковке" group="Характеристики">30</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/nakladnoy-karman-s-setkoy-205-h-120-h-10-mm-00091889.html</param>
-<quantity location="Основной склад">53</quantity><quantity location="Владивосток">25</quantity>
+<quantity location="Основной склад">51</quantity><quantity location="Владивосток">25</quantity>
 </offer>
 <offer id='"00091890"' available="true">
 <name>Накладной карман с сеткой 205х120х20 мм</name><price>1338</price><currencyId>RUR</currencyId>
@@ -71768,7 +71768,7 @@ MR20FH</param>
 <param name="Рабочее напряжение, DC" group="Характеристики">12/24</param>
 <param name="Ток максимальный (12 В)" group="Характеристики">150</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/kolodka-raspredelitelnaya-elektromontazhnaya-s-zaschitnoy-kryshkoy-2-planki-po-6-kontaktov-00198392.html</param>
-<quantity location="Основной склад">10</quantity><quantity location="Владивосток">0</quantity>
+<quantity location="Основной склад">9</quantity><quantity location="Владивосток">0</quantity>
 </offer>
 <offer id='"00198391"' available="true">
 <name>Колодка распределительная электромонтажная с защитной крышкой, 2 планки по 12 контактов</name><price>1321</price><currencyId>RUR</currencyId>
@@ -73066,7 +73066,7 @@ MR20FH</param>
 <param name="Рабочее напряжение, DC" group="Характеристики">12</param>
 <param name="Кол-во в зав.упаковке" group="Характеристики">10</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/knopka-upravleniya-yakornoy-lebedkoy-00113948.html</param>
-<quantity location="Основной склад">1</quantity><quantity location="Владивосток">4</quantity>
+<quantity location="Основной склад">2</quantity><quantity location="Владивосток">4</quantity>
 </offer>
 <offer id='"00001908"' available="true">
 <name>Фланец выхлопного патрубка Kawasaki JET SKI ST (750)</name><price>9116</price><currencyId>RUR</currencyId>
@@ -80470,7 +80470,7 @@ Sierra: 18-5107-1</param>
 37105-96L10
 3710596L1
 37105-96L1</param>
-<quantity location="Основной склад">0</quantity><quantity location="Владивосток">6</quantity>
+<quantity location="Основной склад">0</quantity><quantity location="Владивосток">5</quantity>
 </offer>
 <offer id='"00174575"' available="true">
 <name>Кресло мягкое складное, обивка винил, цвет серый/угольный, Marine Rocket</name><price>3360</price><currencyId>RUR</currencyId>
@@ -85582,21 +85582,12 @@ F1K-U2663-01-00</param>
 <offer id='"00156723"' available="true">
 <name>Комплект мембран топливного насоса Yamaha, Omax</name><price>899</price><currencyId>RUR</currencyId>
 <categoryId>31</categoryId>
-<picture>https://wsrv.nl/?url=https%3A%2F%2Fimages.1000size.ru%2Fuploads%2Fimages%2Fitems%2Fmax%2Fkomplekt-membran-toplivnogo-nasosa-yamaha-omax_660946.jpg&amp;w=1200&amp;h=1200&amp;fit=contain&amp;bg=white&amp;output=jpg&amp;q=90</picture>
-<vendor>Omax</vendor>
+<picture>https://avatars.mds.yandex.net/get-yastore/17761178/cxz2rjnh2kr9xmw9xtsglggpjx6shg92/orig</picture>
 <model>&quot;00156723&quot;</model>
 <description>Комплект мембран топливного насоса Yamaha, Omax. Бренд: Omax. Производитель: Omax. Страна производителя: Тайвань. Страна производства: Тайвань. Каталожный номер: 6G1244110000
 6G1-24411-00-00. Вес: 20 г</description>
 <param name="articul">&quot;00156723&quot;</param>
-<param name="picture">https://images.1000size.ru/uploads/images/items/max/komplekt-membran-toplivnogo-nasosa-yamaha-omax_660945.jpg</param>
-<param name="Бренд" group="Информация о производителе">Omax</param>
-<param name="Производитель" group="Информация о производителе">Omax</param>
-<param name="Страна производителя" group="Информация о производителе">Тайвань</param>
-<param name="Страна производства" group="Информация о производителе">Тайвань</param>
-<param name="Каталожный номер" group="Номера в каталоге">6G1244110000
-6G1-24411-00-00</param>
-<param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/komplekt-membran-toplivnogo-nasosa-yamaha-omax-00156723.html</param>
-<quantity location="Основной склад">1</quantity><quantity location="Владивосток">0</quantity>
+<quantity location="Основной склад">0</quantity><quantity location="Владивосток">0</quantity>
 </offer>
 <offer id='"00157136"' available="true">
 <name>Ремкомплект блока Yamaha 60, Omax</name><price>2898</price><currencyId>RUR</currencyId>
@@ -89301,11 +89292,32 @@ DPR-C.</param>
 <offer id='"11597836"' available="true">
 <name>Дистанционное управление правый борт Yamaha-701, Omax</name><price>12357</price><currencyId>RUR</currencyId>
 <categoryId>28</categoryId>
-<picture>https://avatars.mds.yandex.net/get-yastore/18104899/swbfs4z8g8lp9t2mnp9cvjwdc95lr29p/orig</picture>
+<picture>https://wsrv.nl/?url=https%3A%2F%2Fimages.1000size.ru%2Fuploads%2Fimages%2Fitems%2Fmax%2Frychag-gaza-du-y701-pravyy-omax_834965_807840715.jpg&amp;w=1200&amp;h=1200&amp;fit=contain&amp;bg=white&amp;output=jpg&amp;q=90</picture>
+<vendor>Omax</vendor>
 <model>&quot;11597836&quot;</model>
-<description>Дистанционное управление правый борт Yamaha-701, Omax. Примечание: Используется с тросами С2, С8, MACHZero. Управление газом: есть. Управление реверсом: есть. Управление тримом: нет. Принцип газа: тянет. Кол-во двигателей: 1. Кнопка стопа: есть. Замок зажигания: нет. Зуммер: нет. Кабель д/у: есть. Установка: накладная. Длина кабеля: 5. К-во контактов разъёма: 2. Бренд: Omax. Производитель: Omax. Страна производителя: Тайвань. Сторона установки: правый борт. Перенос рычага на другую сторону: нет. Вес: 200 г</description>
+<description>Дистанционное управление правый борт Yamaha-701, Omax. Примечание: Используется с тросами С2, С8, MACHZero. Управление газом: есть. Управление реверсом: есть. Управление тримом: нет. Принцип газа: тянет. Кол-во двигателей: 1. Кнопка стопа: есть. Замок зажигания: нет. Зуммер: нет. Кабель д/у: есть. Установка: накладная. Длина кабеля: 5. К-во контактов разъёма: 2. Бренд: Omax. Производитель: Omax. Страна производителя: Тайвань. Сторона установки: правый борт. Перенос рычага на другую сторону: нет. Вес: 3080 г</description>
 <param name="articul">&quot;11597836&quot;</param>
-<quantity location="Основной склад">0</quantity><quantity location="Владивосток">0</quantity>
+<param name="picture">https://images.1000size.ru/uploads/images/items/max/rychag-gaza-du-y701-pravyy-omax_834965_4032263087.jpg</param>
+<param name="Примечание" group="Примечание">Используется с тросами С2, С8, MACHZero</param>
+<param name="Управление газом" group="Характеристики">есть</param>
+<param name="Управление реверсом" group="Характеристики">есть</param>
+<param name="Управление тримом" group="Характеристики">нет</param>
+<param name="Принцип газа" group="Характеристики">тянет</param>
+<param name="Кол-во двигателей" group="Характеристики">1</param>
+<param name="Кнопка стопа" group="Характеристики">есть</param>
+<param name="Замок зажигания" group="Характеристики">нет</param>
+<param name="Зуммер" group="Характеристики">нет</param>
+<param name="Кабель д/у" group="Характеристики">есть</param>
+<param name="Установка" group="Характеристики">накладная</param>
+<param name="Длина кабеля" group="Характеристики">5</param>
+<param name="К-во контактов разъёма" group="Характеристики">2</param>
+<param name="Бренд" group="Информация о производителе">Omax</param>
+<param name="Производитель" group="Информация о производителе">Omax</param>
+<param name="Страна производителя" group="Информация о производителе">Тайвань</param>
+<param name="Сторона установки" group="Характеристики">правый борт</param>
+<param name="Перенос рычага на другую сторону" group="Характеристики">нет</param>
+<param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/rychag-gaza-du-y701-pravyy-omax-11597836.html</param>
+<quantity location="Основной склад">0</quantity><quantity location="Владивосток">1</quantity>
 </offer>
 <offer id='"00198993"' available="true">
 <name>Румпель Yamaha 9.9-15/F6-9.9, Omax</name><price>3789</price><currencyId>RUR</currencyId>
@@ -107969,22 +107981,14 @@ MR010513035B</param>
 <offer id='"11038609"' available="true">
 <name>Обойма помпы Suzuki DF8A/9.9A/15A/20A/DT9.9A-15A</name><price>2417</price><currencyId>RUR</currencyId>
 <categoryId>215</categoryId>
-<picture>https://wsrv.nl/?url=https%3A%2F%2Fimages.1000size.ru%2Fuploads%2Fimages%2Fitems%2Fmax%2Foboyma-pompy-suzuki-df8a-9-9a-15a-20a-dt9-9a-15a_657324.jpg&amp;w=1200&amp;h=1200&amp;fit=contain&amp;bg=white&amp;output=jpg&amp;q=90</picture>
-<vendor>Suzuki</vendor>
+<picture>https://avatars.mds.yandex.net/get-yastore/17761178/4rml4t2bwfb8q8qrr6vtdnbvwl7qsxzs/orig</picture>
 <model>&quot;11038609&quot;</model>
 <description>Обойма помпы Suzuki DF8A/9.9A/15A/20A/DT9.9A-15A. Бренд: Suzuki. Производитель: Suzuki. Страна производителя: Япония. Каталожный номер: 1741394J10
 17413-94J10
 1741394J1
 17413-94J1. Вес: 27 г</description>
 <param name="articul">&quot;11038609&quot;</param>
-<param name="Бренд" group="Информация о производителе">Suzuki</param>
-<param name="Производитель" group="Информация о производителе">Suzuki</param>
-<param name="Страна производителя" group="Информация о производителе">Япония</param>
-<param name="Каталожный номер" group="Номера в каталоге">1741394J10
-17413-94J10
-1741394J1
-17413-94J1</param>
-<quantity location="Основной склад">1</quantity><quantity location="Владивосток">0</quantity>
+<quantity location="Основной склад">0</quantity><quantity location="Владивосток">0</quantity>
 </offer>
 <offer id='"00146034"' available="true">
 <name>Корпус помпы Suzuki DT/DF9.9-15, Omax</name><price>3892</price><currencyId>RUR</currencyId>
@@ -115086,7 +115090,7 @@ Bombardier: 0508556, 0778149, 0909314, 3852468</param>
 <param name="Каталожный номер" group="Номера в каталоге">369610120
 369-61012-0</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/prokladka-pod-blok-dvigatelya-tohatsu-m5b-omax-00146128.html</param>
-<quantity location="Основной склад">5</quantity><quantity location="Владивосток">5</quantity>
+<quantity location="Основной склад">5</quantity><quantity location="Владивосток">4</quantity>
 </offer>
 <offer id='"00146126"' available="true">
 <name>Прокладка под блок двигателя Tohatsu/Mercury 2.5-3.5, Omax</name><price>245</price><currencyId>RUR</currencyId>
@@ -119019,7 +119023,7 @@ Bombardier: 0508556, 0778149, 0909314, 3852468</param>
 369-60223-0
 2616162</param>
 <param name="Диаметр внешний" group="Характеристики">24</param>
-<quantity location="Основной склад">24</quantity><quantity location="Владивосток">12</quantity>
+<quantity location="Основной склад">24</quantity><quantity location="Владивосток">11</quantity>
 </offer>
 <offer id='"00156949"' available="true">
 <name>Сальник 18х28х8, Mercury/Tohatsu 25-30, Omax</name><price>157</price><currencyId>RUR</currencyId>
@@ -119831,7 +119835,7 @@ Bombardier: 0508556, 0778149, 0909314, 3852468</param>
 <param name="Каталожный номер" group="Номера в каталоге">369601110
 369-60111-0</param>
 <param name="Диаметр внешний" group="Характеристики">28</param>
-<quantity location="Основной склад">20</quantity><quantity location="Владивосток">11</quantity>
+<quantity location="Основной склад">20</quantity><quantity location="Владивосток">9</quantity>
 </offer>
 <offer id='"00007873"' available="true">
 <name>Сальник 20x47x8, Tohatsu/Mercury 4-5, Omax</name><price>157</price><currencyId>RUR</currencyId>
@@ -120596,7 +120600,7 @@ Bombardier: 0508556, 0778149, 0909314, 3852468</param>
 <param name="Производитель" group="Информация о производителе">autoTRAC</param>
 <param name="Страна производителя" group="Информация о производителе">Китай</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/baraban-dlya-yakornyh-lebedok-autotrac-alum-00165349.html</param>
-<quantity location="Основной склад">0</quantity><quantity location="Владивосток">10</quantity>
+<quantity location="Основной склад">0</quantity><quantity location="Владивосток">11</quantity>
 </offer>
 <offer id='"00162238"' available="true">
 <name>Барабан для якорных лебедок autoTRAC, черный</name><price>350</price><currencyId>RUR</currencyId>
@@ -122347,7 +122351,7 @@ Tohatsu: 346-65013-0, 346650130M. Диаметр внешний: 30. Вес: 300
 <param name="d x D x h" group="Характеристики">10х24х8.0</param>
 <param name="Каталожный номер" group="Номера в каталоге">Mercruiser/Mercury: 16162, 26-16162; Bombardier: 5040147; Tohatsu: 369-60223-0, 369602230M</param>
 <param name="Диаметр внешний" group="Характеристики">24</param>
-<quantity location="Основной склад">20</quantity><quantity location="Владивосток">31</quantity>
+<quantity location="Основной склад">20</quantity><quantity location="Владивосток">30</quantity>
 </offer>
 <offer id='"11595091"' available="true">
 <name>Сальник 20х35х7, Tohatsu/Mercury 4-9.8, Recmar</name><price>543</price><currencyId>RUR</currencyId>
@@ -141725,7 +141729,7 @@ M30A4</param>
 940103-0800 шайбы (2шт)</param>
 <param name="2-тактные моторы" group="Характеристики">M25C3, M30A4</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/komplekt-podklyucheniya-distancionnogo-upravleniya-tohatsu-m25c3-30a4-omax-00159153.html</param>
-<quantity location="Основной склад">6</quantity><quantity location="Владивосток">4</quantity>
+<quantity location="Основной склад">6</quantity><quantity location="Владивосток">5</quantity>
 </offer>
 <offer id='"00157179"' available="true">
 <name>Пружина храповика Yamaha 40, Omax</name><price>106</price><currencyId>RUR</currencyId>
@@ -152405,7 +152409,7 @@ MR20FH. Вес: 3000 г</description>
 <param name="Страна производителя" group="Информация о производителе">Испания</param>
 <param name="Каталожный номер" group="Номера в каталоге">Mercruiser/Mercury: 84026M, 842121M; Yamaha: 682-44323-00, 6824432300</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/plastina-pompy-yamaha-9-9-15-f8-9-9-recmar-11595626.html</param>
-<quantity location="Основной склад">2</quantity><quantity location="Владивосток">1</quantity>
+<quantity location="Основной склад">1</quantity><quantity location="Владивосток">1</quantity>
 </offer>
 <offer id='"11595625"' available="true">
 <name>Обойма помпы Yamaha 9.9-15/F8-9.9, Recmar</name><price>363</price><currencyId>RUR</currencyId>
@@ -155134,7 +155138,7 @@ Yamaha: 663-44322-00, 663-44322-00-00, 6634432200, 663443220000, 670-44322-00, 6
 369650250
 369-65025-0</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/plastina-pompy-mercury-4-5-omax-00157063.html</param>
-<quantity location="Основной склад">3</quantity><quantity location="Владивосток">1</quantity>
+<quantity location="Основной склад">3</quantity><quantity location="Владивосток">0</quantity>
 </offer>
 <offer id='"00157048"' available="true">
 <name>Уплотнение помпы Yamaha 40-50, Omax</name><price>112</price><currencyId>RUR</currencyId>
@@ -155379,7 +155383,7 @@ Yamaha: 663-44322-00, 663-44322-00-00, 6634432200, 663443220000, 670-44322-00, 6
 <param name="Каталожный номер" group="Номера в каталоге">682443220000
 682-44322-00-00</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/oboyma-pompy-yamaha-9-9-15-f8-9-9-omax-00156603.html</param>
-<quantity location="Основной склад">4</quantity><quantity location="Владивосток">11</quantity>
+<quantity location="Основной склад">3</quantity><quantity location="Владивосток">11</quantity>
 </offer>
 <offer id='"00156602"' available="true">
 <name>Обойма помпы Yamaha 5D-E8D, Omax</name><price>484</price><currencyId>RUR</currencyId>
@@ -155435,7 +155439,7 @@ Yamaha: 663-44322-00, 663-44322-00-00, 6634432200, 663443220000, 670-44322-00, 6
 369650110
 369-65011-0</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/oboyma-pompy-mercury-4-5-f6-tohatsu-m4c-5b-mfs4-6-omax-00156597.html</param>
-<quantity location="Основной склад">7</quantity><quantity location="Владивосток">4</quantity>
+<quantity location="Основной склад">7</quantity><quantity location="Владивосток">3</quantity>
 </offer>
 <offer id='"00147574"' available="true">
 <name>Пластина помпы Suzuki DT20C-40/DF25-50Q, Omax</name><price>366</price><currencyId>RUR</currencyId>
@@ -169597,7 +169601,7 @@ BF 60А 2010 г. - наст. время</param>
 <param name="Рабочее напряжение, DC" group="Характеристики">12/24</param>
 <param name="Ток номинальный (12В)" group="Характеристики">5</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/knopka-bez-fiksacii-v-komplekte-s-kontaktnym-razemom-12-24-v-5a-off-on-5p-d22-sinyaya-podsvetka-00201437.html</param>
-<quantity location="Основной склад">58</quantity><quantity location="Владивосток">35</quantity>
+<quantity location="Основной склад">57</quantity><quantity location="Владивосток">35</quantity>
 </offer>
 <offer id='"00201434"' available="true">
 <name>Кнопка без фиксации в комплекте с контактным разъемом, 12/24 В 5А, OFF-(ON) 5P, D22 красная подсветка</name><price>452</price><currencyId>RUR</currencyId>
@@ -176009,7 +176013,7 @@ OFF - &quot;выключен&quot;. Тип: без фиксации. Вес: 14,
 <param name="Количество предохранителей" group="Характеристики">6</param>
 <param name="Ток максимальный (12 В)" group="Характеристики">100</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/blok-na-6-predohraniteley-s-indikaciey-ispravnosti-predohranitelya-marine-rocket-00194185.html</param>
-<quantity location="Основной склад">9</quantity><quantity location="Владивосток">1</quantity>
+<quantity location="Основной склад">8</quantity><quantity location="Владивосток">1</quantity>
 </offer>
 <offer id='"00194184"' available="true">
 <name>Блок на 8 предохранителей с индикацией исправности предохранителя, Marine Rocket</name><price>979</price><currencyId>RUR</currencyId>
@@ -176059,7 +176063,7 @@ OFF - &quot;выключен&quot;. Тип: без фиксации. Вес: 14,
 <param name="Количество предохранителей" group="Характеристики">10</param>
 <param name="Ток максимальный (12 В)" group="Характеристики">100</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/blok-na-10-predohraniteley-atp-atc-ato-s-kryshkoy-i-indikaciey-marine-rocket-00193754.html</param>
-<quantity location="Основной склад">53</quantity><quantity location="Владивосток">4</quantity>
+<quantity location="Основной склад">52</quantity><quantity location="Владивосток">4</quantity>
 </offer>
 <offer id='"11550357"' available="true">
 <name>Блок на 12 предохранителей, Marine Rocket</name><price>1507</price><currencyId>RUR</currencyId>
@@ -194616,7 +194620,7 @@ Yamaha: 697-44352-00, 6974435200, 697443520000, 6H3-44352-00, 6H3-44352-00-00, 6
 <param name="2-тактные моторы" group="Характеристики">9.9D, 15D</param>
 <param name="4-тактные моторы" group="Характеристики">F8A/B; F9.9A/B</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/krylchatka-ohlazhdeniya-yamaha-9-9d-15d-f8a-b-9-9a-b-analog-00002693.html</param>
-<quantity location="Основной склад">7</quantity><quantity location="Владивосток">33</quantity>
+<quantity location="Основной склад">6</quantity><quantity location="Владивосток">33</quantity>
 </offer>
 <offer id='"00000050"' available="true">
 <name>Крыльчатка охлаждения Yamaha 75A/C,80A,85A,90A, Omax</name><price>719</price><currencyId>RUR</currencyId>
@@ -197778,12 +197782,30 @@ Yamaha: 697-44352-00, 6974435200, 697443520000, 6H3-44352-00, 6H3-44352-00-00, 6
 <offer id='"00097047"' available="true">
 <name>Тент для хранения катера длиной 7.6-8.2 м</name><price>49617</price><currencyId>RUR</currencyId>
 <categoryId>43</categoryId>
-<picture>https://avatars.mds.yandex.net/get-yastore/18796383/wlc7vkw9lh7cxrtwlhq6kq86ld9fshmq/orig</picture>
+<picture>https://wsrv.nl/?url=https%3A%2F%2Fimages.1000size.ru%2Fuploads%2Fimages%2Fitems%2Fmax%2Ftent-dlya-hraneniya-katera-dlinoy-7-6-8-2m_628896.jpg&amp;w=1200&amp;h=1200&amp;fit=contain&amp;bg=white&amp;output=jpg&amp;q=90</picture>
 <vendor>OceanSouth</vendor>
 <model>&quot;00097047&quot;</model>
 <description>Тент для хранения катера длиной 7.6-8.2 м. Материал: полиэстер. Цвет: серый. Для плавсредства: 7.6 - 8.2. Тип корпуса: JUMBO COVER. Плотность ткани: 280. Скорость транспортировки: до 60. Бренд: OceanSouth. Производитель: OceanSouth. Страна производителя: Китай. Высота рубки макс.: 1.5. Длина чехла макс.: 10.08. Ширина чехла макс.: 5.90. Ширина плавсредства макс.: 2.9. 1. Вес: 13940 г</description>
 <param name="articul">&quot;00097047&quot;</param>
-<quantity location="Основной склад">0</quantity><quantity location="Владивосток">0</quantity>
+<param name="picture">https://images.1000size.ru/uploads/images/items/max/tent-dlya-hraneniya-katera-dlinoy-7-6-8-2m_633586.jpg</param>
+<param name="picture">https://images.1000size.ru/uploads/images/items/max/tent-dlya-hraneniya-katera-dlinoy-7-6-8-2m_633622.jpg</param>
+<param name="picture">https://images.1000size.ru/uploads/images/items/max/tent-dlya-hraneniya-katera-dlinoy-7-6-8-2m_633587.jpg</param>
+<param name="Материал" group="Характеристики">полиэстер</param>
+<param name="Цвет" group="Характеристики">серый</param>
+<param name="Для плавсредства" group="Характеристики">7.6 - 8.2</param>
+<param name="Тип корпуса" group="Характеристики">JUMBO COVER</param>
+<param name="Плотность ткани" group="Характеристики">280</param>
+<param name="Скорость транспортировки" group="Характеристики">до 60</param>
+<param name="Бренд" group="Информация о производителе">OceanSouth</param>
+<param name="Производитель" group="Информация о производителе">OceanSouth</param>
+<param name="Страна производителя" group="Информация о производителе">Китай</param>
+<param name="Высота рубки макс." group="Характеристики">1.5</param>
+<param name="Длина чехла макс." group="Характеристики">10.08</param>
+<param name="Ширина чехла макс." group="Характеристики">5.90</param>
+<param name="Ширина плавсредства макс." group="Характеристики">2.9</param>
+<param name="Кол-во в зав.упаковке" group="Характеристики">1</param>
+<param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/tent-dlya-hraneniya-katera-dlinoy-7-6-8-2m-00097047.html</param>
+<quantity location="Основной склад">0</quantity><quantity location="Владивосток">1</quantity>
 </offer>
 <offer id='"00116247"' available="true">
 <name>Тент для хранения катера длиной 5.8-6.4 м</name><price>28331</price><currencyId>RUR</currencyId>
