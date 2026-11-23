@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-22 09:48">
+<yml_catalog date="2026-11-23 10:48">
 <shop>
 <name>ТД МК — обновление KIT</name><company>ТД МК</company><url>https://td-mk.ru/</url>
 <currencies><currency id="RUR" rate="1"/></currencies>
@@ -1505,7 +1505,7 @@ MREF60FVEL-T. Бренд: Marine Rocket. Страна производителя
 <param name="Бренд" group="Информация о производителе">Marine Rocket</param>
 <param name="Страна производителя" group="Информация о производителе">Китай</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/gorlovina-zalivnaya-dlya-vody-uglovaya-pod-shlang-38-mm-marine-rocket-00193310.html</param>
-<quantity location="Основной склад">11</quantity><quantity location="Владивосток">0</quantity>
+<quantity location="Основной склад">10</quantity><quantity location="Владивосток">0</quantity>
 </offer>
 <offer id='"00193313"' available="true">
 <name>Горловина заливная для дизтоплива, угловая, под шланг 38 мм Marine Rocket</name><price>2130</price><currencyId>RUR</currencyId>
@@ -1840,7 +1840,7 @@ MREF60FVEL-T. Бренд: Marine Rocket. Страна производителя
 <param name="Страна производителя" group="Информация о производителе">Китай</param>
 <param name="Диаметр монтажного выреза" group="Характеристики">45</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/gorlovina-zalivnaya-uglovaya-dlya-vody-38-mm-marine-rocket-00199949.html</param>
-<quantity location="Основной склад">7</quantity><quantity location="Владивосток">7</quantity>
+<quantity location="Основной склад">6</quantity><quantity location="Владивосток">7</quantity>
 </offer>
 <offer id='"00199950"' available="true">
 <name>Горловина заливная угловая для воды 50 мм, Marine Rocket</name><price>2125</price><currencyId>RUR</currencyId>
@@ -2000,7 +2000,7 @@ MREF60FVEL-T. Бренд: Marine Rocket. Страна производителя
 <param name="Рабочее напряжение, DC" group="Характеристики">12</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/unitaz-elektricheskiy-00192408.html</param>
 <param name="С помпой подачи воды" group="Характеристики">да</param>
-<quantity location="Основной склад">0</quantity><quantity location="Владивосток">1</quantity>
+<quantity location="Основной склад">0</quantity><quantity location="Владивосток">3</quantity>
 </offer>
 <offer id='"00193383"' available="true">
 <name>Унитаз электрический Compact, 12В</name><price>46973</price><currencyId>RUR</currencyId>
@@ -2759,7 +2759,7 @@ MREF60FVEL-T. Бренд: Marine Rocket. Страна производителя
 <param name="Бренд" group="Информация о производителе">Marine Rocket</param>
 <param name="Страна производителя" group="Информация о производителе">Китай</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/derzhatel-spinninga-nerzhaveyuschiy-s-krepleniem-k-leeru-marine-rocket-00196891.html</param>
-<quantity location="Основной склад">4</quantity><quantity location="Владивосток">6</quantity>
+<quantity location="Основной склад">3</quantity><quantity location="Владивосток">6</quantity>
 </offer>
 <offer id='"00196892"' available="true">
 <name>Держатель спиннинга с защитной вставкой нержавеющий, Marine Rocket</name><price>1959</price><currencyId>RUR</currencyId>
@@ -6656,7 +6656,7 @@ Marine Rocket: MREF30F (498 см³); MREF30H (498 см³)</param>
 Пример:
 Гребной винт с шагом 500 мм (20 дюймов) при каждом полном обороте должен был бы передвигать судно на 0,5 м при условии отсутствия скольжения (то есть если бы винт ввинчивался в воду, как в твердую среду). Но поскольку винт отбрасывает воду назад, истинное перемещение судна будет меньше.</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/grebnoy-vint-3x9-7-8x12-marine-rocket-00097776.html</param>
-<quantity location="Основной склад">0</quantity><quantity location="Владивосток">50</quantity>
+<quantity location="Основной склад">0</quantity><quantity location="Владивосток">48</quantity>
 </offer>
 <offer id='"00098024"' available="true">
 <name>Гребной винт 3x9-7/8x13, Marine Rocket</name><price>4524</price><currencyId>RUR</currencyId>
@@ -8321,7 +8321,7 @@ Marine Rocket: MREF60FUE (2.33:1); MREF90F; MREF100F; MREF115F; MREF130F</param>
 Пример:
 Гребной винт с шагом 500 мм (20 дюймов) при каждом полном обороте должен был бы передвигать судно на 0,5 м при условии отсутствия скольжения (то есть если бы винт ввинчивался в воду, как в твердую среду). Но поскольку винт отбрасывает воду назад, истинное перемещение судна будет меньше.</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/grebnoy-vint-3x13-1-4x17-marine-rocket-11286711.html</param>
-<quantity location="Основной склад">4</quantity><quantity location="Владивосток">18</quantity>
+<quantity location="Основной склад">3</quantity><quantity location="Владивосток">18</quantity>
 </offer>
 <offer id='"11286713"' available="true">
 <name>Гребной винт 3x13x19, Marine Rocket</name><price>8612</price><currencyId>RUR</currencyId>
@@ -10172,7 +10172,7 @@ Marine Rocket Prime обеспечивает уверенное качество
 Пример:
 Гребной винт с шагом 500 мм (20 дюймов) при каждом полном обороте должен был бы передвигать судно на 0,5 м при условии отсутствия скольжения (то есть если бы винт ввинчивался в воду, как в твердую среду). Но поскольку винт отбрасывает воду назад, истинное перемещение судна будет меньше.</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/grebnoy-vint-3x9-7-8x12-marine-rocket-prime-11614872.html</param>
-<quantity location="Основной склад">6</quantity><quantity location="Владивосток">4</quantity>
+<quantity location="Основной склад">5</quantity><quantity location="Владивосток">4</quantity>
 </offer>
 <offer id='"11614873"' available="true">
 <name>Гребной винт 3x9-7/8x11-1/4, Marine Rocket Prime</name><price>4619</price><currencyId>RUR</currencyId>
@@ -10372,7 +10372,7 @@ Marine Rocket Prime обеспечивает уверенное качество
 Пример:
 Гребной винт с шагом 500 мм (20 дюймов) при каждом полном обороте должен был бы передвигать судно на 0,5 м при условии отсутствия скольжения (то есть если бы винт ввинчивался в воду, как в твердую среду). Но поскольку винт отбрасывает воду назад, истинное перемещение судна будет меньше.</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/grebnoy-vint-3x12-3-4x21-marine-rocket-prime-00199628.html</param>
-<quantity location="Основной склад">4</quantity><quantity location="Владивосток">4</quantity>
+<quantity location="Основной склад">3</quantity><quantity location="Владивосток">4</quantity>
 </offer>
 <offer id='"00202012"' available="true">
 <name>Гребной винт 3x9-1/4x11, Marine Rocket</name><price>10874</price><currencyId>RUR</currencyId>
@@ -15766,7 +15766,7 @@ DP280-290, DP-A / E. Серия может быть установлена ка�
 <param name="Кол-во в зав.упаковке" group="Характеристики">1</param>
 <param name="Диаметр посадки на вал" group="Размеры">3/4</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/rulevoe-koleso-osculati-iz-myagkogo-poliuretana-so-spicami-iz-nerzhaveyuschey-stali-diametr-320-mm-cvet-chernyy-00178281.html</param>
-<quantity location="Основной склад">3</quantity><quantity location="Владивосток">10</quantity>
+<quantity location="Основной склад">2</quantity><quantity location="Владивосток">10</quantity>
 </offer>
 <offer id='"00178347"' available="true">
 <name>Рулевое колесо диаметр 320 мм</name><price>5525</price><currencyId>RUR</currencyId>
@@ -17362,7 +17362,8 @@ DP280-290, DP-A / E. Серия может быть установлена ка�
 <param name="Страна производства" group="Информация о производителе">Китай</param>
 <param name="Объём бака" group="Характеристики">75</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/bak-toplivnyy-mobilnyy-s-zapravochnym-pistoletom-75-l-00199999.html</param>
-<quantity location="Основной склад">5</quantity><quantity location="Владивосток">8</quantity>
+<param name="Длина топливного шланга" group="Характеристики">3</param>
+<quantity location="Основной склад">0</quantity><quantity location="Владивосток">4</quantity>
 </offer>
 <offer id='"00200000"' available="true">
 <name>Бак топливный мобильный с заправочным пистолетом, 119 л</name><price>17019</price><currencyId>RUR</currencyId>
@@ -17385,7 +17386,8 @@ DP280-290, DP-A / E. Серия может быть установлена ка�
 <param name="Габариты в упаковке" group="Характеристики">1112х550х370</param>
 <param name="Объём бака" group="Характеристики">119</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/bak-toplivnyy-mobilnyy-s-zapravochnym-pistoletom-119-l-00200000.html</param>
-<quantity location="Основной склад">0</quantity><quantity location="Владивосток">14</quantity>
+<param name="Длина топливного шланга" group="Характеристики">3</param>
+<quantity location="Основной склад">0</quantity><quantity location="Владивосток">12</quantity>
 </offer>
 <offer id='"00016490"' available="true">
 <name>Переходник топливный Honda (коннектор;металл), совместим с C14538</name><price>1457</price><currencyId>RUR</currencyId>
@@ -18123,7 +18125,7 @@ Evinrude (4-15 лс): B4R4, B6R4, BR9.8R4, B15R4.</param>
 <param name="Страна производства" group="Информация о производителе">Китай</param>
 <param name="Длина в бухте" group="Характеристики">50</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/shlang-toplivnyy-d10-d14-mm-upakovka-iz-50-sht-11537324.html</param>
-<quantity location="Основной склад">5</quantity><quantity location="Владивосток">5</quantity>
+<quantity location="Основной склад">5</quantity><quantity location="Владивосток">4</quantity>
 </offer>
 <offer id='"00192594"' available="true">
 <name>Шланг топливный 8 мм с грушей и топливными переходниками Tohatsu</name><price>4438</price><currencyId>RUR</currencyId>
@@ -18182,7 +18184,7 @@ Evinrude (4-15 лс): B4R4, B6R4, BR9.8R4, B15R4.</param>
 <param name="Бренд" group="Информация о производителе">Marine Rocket</param>
 <param name="Страна производителя" group="Информация о производителе">Китай</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/grusha-toplivopodkachivayuschaya-dlya-lodochnyh-motorov-10-mm-00197212.html</param>
-<quantity location="Основной склад">73</quantity><quantity location="Владивосток">31</quantity>
+<quantity location="Основной склад">72</quantity><quantity location="Владивосток">31</quantity>
 </offer>
 <offer id='"00116232"' available="true">
 <name>Тент транспортировочный для лодок длиной 6,3-6,7 м типа Cabin Cruiser</name><price>24609</price><currencyId>RUR</currencyId>
@@ -19305,7 +19307,7 @@ Evinrude (4-15 лс): B4R4, B6R4, BR9.8R4, B15R4.</param>
 <param name="Рабочее напряжение, DC" group="Характеристики">12/24</param>
 <param name="Кол-во в зав.упаковке" group="Характеристики">1</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/panel-upravleniya-vodootkachivayuschey-pompoy-seaflo-00182115.html</param>
-<quantity location="Основной склад">56</quantity><quantity location="Владивосток">34</quantity>
+<quantity location="Основной склад">55</quantity><quantity location="Владивосток">34</quantity>
 </offer>
 <offer id='"00182116"' available="true">
 <name>Панель управления водооткачивающей помпой SeaFlo</name><price>2331</price><currencyId>RUR</currencyId>
@@ -19857,7 +19859,7 @@ Evinrude (4-15 лс): B4R4, B6R4, BR9.8R4, B15R4.</param>
 <param name="Дальность пучка света" group="Характеристики">300</param>
 <param name="Рабочее напряжение, DC" group="Характеристики">12</param>
 <param name="Кол-во в зав.упаковке" group="Характеристики">24</param>
-<quantity location="Основной склад">0</quantity><quantity location="Владивосток">49</quantity>
+<quantity location="Основной склад">0</quantity><quantity location="Владивосток">50</quantity>
 </offer>
 <offer id='"00120430"' available="true">
 <name>Прожектор светодиодный 20 диодов, 2100 лм, 12-54 В</name><price>26647</price><currencyId>RUR</currencyId>
@@ -20479,7 +20481,7 @@ Evinrude (4-15 лс): B4R4, B6R4, BR9.8R4, B15R4.</param>
 <param name="Ток максимальный" group="Характеристики">2</param>
 <param name="Рабочее напряжение, DC" group="Характеристики">12</param>
 <param name="Кол-во в зав.упаковке" group="Характеристики">36</param>
-<quantity location="Основной склад">108</quantity><quantity location="Владивосток">145</quantity>
+<quantity location="Основной склад">107</quantity><quantity location="Владивосток">145</quantity>
 </offer>
 <offer id='"00117860"' available="true">
 <name>Сигнал звуковой электрический врезной высокий тон</name><price>4528</price><currencyId>RUR</currencyId>
@@ -23063,7 +23065,7 @@ Evinrude (4-15 лс): B4R4, B6R4, BR9.8R4, B15R4.</param>
 <param name="Страна производителя" group="Информация о производителе">Тайвань</param>
 <param name="Кол-во в зав.упаковке" group="Характеристики">30</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/bagor-teleskopicheskiy-1-4-2-4m-00018116.html</param>
-<quantity location="Основной склад">0</quantity><quantity location="Владивосток">296</quantity>
+<quantity location="Основной склад">0</quantity><quantity location="Владивосток">276</quantity>
 </offer>
 <offer id='"11378889"' available="true">
 <name>Багор телескопический трехколенный, 110-260 см</name><price>5197</price><currencyId>RUR</currencyId>
@@ -25487,7 +25489,7 @@ Tohatsu: HZW1-19210-B04, HZW119210B04. Диаметр внешний: 87.80. В�
 Внимательно относитесь к выбору материала анодной защиты, обязательно учитывайте местные условия эксплуатации.
 
 Никогда не закрашивайте защитные аноды!</param>
-<quantity location="Основной склад">31</quantity><quantity location="Владивосток">0</quantity>
+<quantity location="Основной склад">12</quantity><quantity location="Владивосток">0</quantity>
 </offer>
 <offer id='"00183147"' available="true">
 <name>Анод алюминиевый Yamaha 40-50; F30-F60</name><price>754</price><currencyId>RUR</currencyId>
@@ -25976,7 +25978,7 @@ Tohatsu: HZW1-19210-B04, HZW119210B04. Диаметр внешний: 87.80. В�
 Внимательно относитесь к выбору материала анодной защиты, обязательно учитывайте местные условия эксплуатации.
 
 Никогда не закрашивайте защитные аноды!</param>
-<quantity location="Основной склад">5</quantity><quantity location="Владивосток">2</quantity>
+<quantity location="Основной склад">4</quantity><quantity location="Владивосток">2</quantity>
 </offer>
 <offer id='"00183117"' available="true">
 <name>Анод цинковый Volvo Penta DPH/DPR</name><price>3148</price><currencyId>RUR</currencyId>
@@ -26102,7 +26104,7 @@ Tohatsu: HZW1-19210-B04, HZW119210B04. Диаметр внешний: 87.80. В�
 Внимательно относитесь к выбору материала анодной защиты, обязательно учитывайте местные условия эксплуатации.
 
 Никогда не закрашивайте защитные аноды!</param>
-<quantity location="Основной склад">4</quantity><quantity location="Владивосток">2</quantity>
+<quantity location="Основной склад">3</quantity><quantity location="Владивосток">2</quantity>
 </offer>
 <offer id='"00183123"' available="true">
 <name>Анод цинковый Volvo Penta DP280/DP290/DP</name><price>2328</price><currencyId>RUR</currencyId>
@@ -27576,7 +27578,7 @@ Kohler: 359771</param>
 <param name="Страна производителя" group="Информация о производителе">Италия</param>
 <param name="Кол-во в зав.упаковке" group="Характеристики">1</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/gofra-kabel-trassy-50-8-mm-belaya-00178261.html</param>
-<quantity location="Основной склад">123</quantity><quantity location="Владивосток">28</quantity>
+<quantity location="Основной склад">123</quantity><quantity location="Владивосток">20</quantity>
 </offer>
 <offer id='"00180908"' available="true">
 <name>Горловина выхода канала, нержавеющая сталь</name><price>4044</price><currencyId>RUR</currencyId>
@@ -27695,7 +27697,7 @@ Kohler: 359771</param>
 <param name="Кол-во в зав.упаковке" group="Характеристики">100 м</param>
 <param name="Стандарт" group="Характеристики">DIN766</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/cep-yakornaya-ocinkovannaya-10mm-din766-marine-rocket-00193291.html</param>
-<quantity location="Основной склад">288</quantity><quantity location="Владивосток">26</quantity>
+<quantity location="Основной склад">288</quantity><quantity location="Владивосток">20</quantity>
 </offer>
 <offer id='"00193292"' available="true">
 <name>Цепь якорная нержавеющая 8 мм, DIN766, Marine Rocket</name><price>1772</price><currencyId>RUR</currencyId>
@@ -27968,7 +27970,7 @@ Kohler: 359771</param>
 <param name="Каталожный номер" group="Номера в каталоге">Suzuki: 65910-98J00, 65910-98J01</param>
 <param name="Кол-во в зав.упаковке" group="Характеристики">1</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/filtr-toplivnyy-smennaya-vstavka-10-mk-dlya-om225-00165423.html</param>
-<quantity location="Основной склад">54</quantity><quantity location="Владивосток">134</quantity>
+<quantity location="Основной склад">52</quantity><quantity location="Владивосток">134</quantity>
 </offer>
 <offer id='"00167130"' available="true">
 <name>Фильтр топливный BF1282-0</name><price>1000</price><currencyId>RUR</currencyId>
@@ -29372,7 +29374,7 @@ Kohler: 359771</param>
 <param name="Производитель" group="Информация о производителе">Castro</param>
 <param name="Страна производителя" group="Информация о производителе">Испания</param>
 <param name="Кол-во в зав.упаковке" group="Характеристики">8</param>
-<quantity location="Основной склад">2</quantity><quantity location="Владивосток">2</quantity>
+<quantity location="Основной склад">0</quantity><quantity location="Владивосток">1</quantity>
 </offer>
 <offer id='"00193759"' available="true">
 <name>Буй Marine Rocket надувной, размер 490x370 мм, цвет оранжевый</name><price>3199</price><currencyId>RUR</currencyId>
@@ -31083,7 +31085,7 @@ Mercury/Mariner ME40EO TMC, ME50EO TM</param>
 <param name="Кол-во в зав.упаковке" group="Характеристики">1</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/nasos-dlya-perekachki-zhidkosti-s-pitaniem-ot-usb-00187675.html</param>
 <param name="Длина сливной трубки" group="Характеристики">105</param>
-<quantity location="Основной склад">31</quantity><quantity location="Владивосток">8</quantity>
+<quantity location="Основной склад">30</quantity><quantity location="Владивосток">8</quantity>
 </offer>
 <offer id='"00193084"' available="true">
 <name>Насос электрический для перекачки топлива на батарейках 90см, Marine Rocket</name><price>1171</price><currencyId>RUR</currencyId>
@@ -32036,7 +32038,7 @@ F15C; F20B (432 см³) с 2023 г.в.</param>
 <param name="Страна" group="Информация о производителе">Корея</param>
 <param name="Кол-во в зав. упаковке" group="Характеристики">1</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/adapter-podklyucheniya-rulevogo-trosa-00121482.html</param>
-<quantity location="Основной склад">54</quantity><quantity location="Владивосток">33</quantity>
+<quantity location="Основной склад">54</quantity><quantity location="Владивосток">29</quantity>
 </offer>
 <offer id='"00065745"' available="true">
 <name>Опора рулевого троса нержавеющая</name><price>7976</price><currencyId>RUR</currencyId>
@@ -34110,7 +34112,7 @@ E40 - Российский рынок. Подвесные моторы: DF60, DF
 15410-87L0</param>
 <param name="Кол-во в зав. упаковке" group="Характеристики">1</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/filtr-toplivnyy-suzuki-df9-9b-15a-30a-70a-90a-omax-00156758.html</param>
-<quantity location="Основной склад">28</quantity><quantity location="Владивосток">0</quantity>
+<quantity location="Основной склад">27</quantity><quantity location="Владивосток">0</quantity>
 </offer>
 <offer id='"00156759"' available="true">
 <name>Фильтр топливный Suzuki DF150/175, Omax</name><price>782</price><currencyId>RUR</currencyId>
@@ -34518,7 +34520,7 @@ DF25A; 30A (с 2015 г.в.)</param>
 17461-90J0</param>
 <param name="Диаметр внешний" group="Характеристики">86.00</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/krylchatka-ohlazhdeniya-suzuki-df90-115-140-150-175-omax-00156883.html</param>
-<quantity location="Основной склад">2</quantity><quantity location="Владивосток">1</quantity>
+<quantity location="Основной склад">2</quantity><quantity location="Владивосток">0</quantity>
 </offer>
 <offer id='"00156884"' available="true">
 <name>Крыльчатка охлаждения Suzuki DF200-350, Omax</name><price>1103</price><currencyId>RUR</currencyId>
@@ -35095,11 +35097,19 @@ DF25A; 30A (с 2015 г.в.)</param>
 <offer id='"00096325"' available="true">
 <name>Насос ручной осушительный для откачки воды</name><price>2076</price><currencyId>RUR</currencyId>
 <categoryId>92</categoryId>
-<picture>https://avatars.mds.yandex.net/get-yastore/18796383/g98jw62ztbmg975xvz8wg2njhqkdv4fg/orig</picture>
+<picture>https://wsrv.nl/?url=https%3A%2F%2Fimages.1000size.ru%2Fuploads%2Fimages%2Fitems%2Fmax%2Fnasos-ruchnoy-osushitelnyy-dlya-otkachki-vody_670449.jpg&amp;w=1200&amp;h=1200&amp;fit=contain&amp;bg=white&amp;output=jpg&amp;q=90</picture>
+<vendor>Easterner</vendor>
 <model>&quot;00096325&quot;</model>
 <description>Насос ручной осушительный для откачки воды. Вес: 760 г.60. Бренд: Easterner. Производитель: Easterner. Страна производителя: Тайвань. Вес: 760 г</description>
 <param name="articul">&quot;00096325&quot;</param>
-<quantity location="Основной склад">0</quantity><quantity location="Владивосток">0</quantity>
+<param name="picture">https://images.1000size.ru/uploads/images/items/max/nasos-ruchnoy-osushitelnyy-dlya-otkachki-vody_922.jpg</param>
+<param name="Веc" group="Характеристики">0.60</param>
+<param name="Бренд" group="Информация о производителе">Easterner</param>
+<param name="Производитель" group="Информация о производителе">Easterner</param>
+<param name="Страна производителя" group="Информация о производителе">Тайвань</param>
+<param name="Кол-во в зав.упаковке" group="Характеристики">6</param>
+<param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/nasos-ruchnoy-osushitelnyy-dlya-otkachki-vody-00096325.html</param>
+<quantity location="Основной склад">0</quantity><quantity location="Владивосток">1</quantity>
 </offer>
 <offer id='"00163234"' available="true">
 <name>Помпа осушительная, 12 В, 300GPH (1134 л/ч)</name><price>1211</price><currencyId>RUR</currencyId>
@@ -35612,7 +35622,7 @@ DF25A; 30A (с 2015 г.в.)</param>
 <param name="Кол-во в зав.упаковке" group="Характеристики">1</param>
 <param name="Длина провода" group="Характеристики">1</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/pompa-osushitelnaya-12-v-800gph-3028-l-chas-seaflo-00188992.html</param>
-<quantity location="Основной склад">15</quantity><quantity location="Владивосток">16</quantity>
+<quantity location="Основной склад">14</quantity><quantity location="Владивосток">16</quantity>
 </offer>
 <offer id='"00188993"' available="true">
 <name>Помпа осушительная 12 В, 600GPH (2271 л/час), автоматическая, SeaFlo</name><price>2984</price><currencyId>RUR</currencyId>
@@ -36460,7 +36470,7 @@ DF25A; 30A (с 2015 г.в.)</param>
 <param name="Страна производителя" group="Информация о производителе">Китай</param>
 <param name="Рабочее напряжение, DC" group="Характеристики">12</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/kompas-marine-rocket-760-chernyy-00197924.html</param>
-<quantity location="Основной склад">18</quantity><quantity location="Владивосток">43</quantity>
+<quantity location="Основной склад">17</quantity><quantity location="Владивосток">43</quantity>
 </offer>
 <offer id='"00170704"' available="true">
 <name>Кронштейн датчика эхолота для НДНД №1</name><price>1204</price><currencyId>RUR</currencyId>
@@ -37640,7 +37650,7 @@ DF25A; 30A (с 2015 г.в.)</param>
 <param name="Рабочее напряжение, DC" group="Характеристики">10-32</param>
 <param name="Кол-во в зав.упаковке" group="Характеристики">25</param>
 <param name="Глубина измерения" group="Размеры и вес">360-660</param>
-<quantity location="Основной склад">17</quantity><quantity location="Владивосток">4</quantity>
+<quantity location="Основной склад">14</quantity><quantity location="Владивосток">4</quantity>
 </offer>
 <offer id='"00132872"' available="true">
 <name>Датчик уровня 360-660 мм, универсальный поплавковый 240-33 Ом</name><price>2000</price><currencyId>RUR</currencyId>
@@ -37939,7 +37949,7 @@ DF25A; 30A (с 2015 г.в.)</param>
 <param name="Рабочее напряжение, DC" group="Характеристики">10-32</param>
 <param name="Глубина измерения" group="Размеры и вес">380</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/datchik-urovnya-380-mm-0-190-om-s5-marine-rocket-00195217.html</param>
-<quantity location="Основной склад">6</quantity><quantity location="Владивосток">6</quantity>
+<quantity location="Основной склад">5</quantity><quantity location="Владивосток">6</quantity>
 </offer>
 <offer id='"00195947"' available="true">
 <name>Датчик уровня 800 мм, 0-190 Ом, S5, Marine Rocket</name><price>5055</price><currencyId>RUR</currencyId>
@@ -39374,7 +39384,7 @@ COG (курс) – текущее направление судна. Диапа�
 <param name="Рабочее напряжение, DC" group="Характеристики">12/24</param>
 <param name="Кол-во в зав.упаковке" group="Характеристики">30</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/tahometr-0-6000-ob-min-so-schetchikom-motochasov-delitel-0-5-250-belyy-ciferblat-nerzhaveyuschiy-obodok-d-85-mm-00120898.html</param>
-<quantity location="Основной склад">2</quantity><quantity location="Владивосток">3</quantity>
+<quantity location="Основной склад">1</quantity><quantity location="Владивосток">3</quantity>
 </offer>
 <offer id='"00120899"' available="true">
 <name>Тахометр 0-8000 об/мин со счетчиком моточасов делитель 0.5-250, черный циферблат, нержавеющий ободок, Marine Rocket</name><price>4673</price><currencyId>RUR</currencyId>
@@ -40199,7 +40209,7 @@ A - сигнализация (на лампочку, аварийная сигн
 <param name="Сигнал (диапазон)" group="Характеристики">300-23 Ом</param>
 <param name="Рабочее напряжение, DC" group="Характеристики">6-24</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/datchik-temperatury-masla-50-150-gr-signalizaciya-120-gr-rezba-3-8-18npt-00120913.html</param>
-<quantity location="Основной склад">6</quantity><quantity location="Владивосток">10</quantity>
+<quantity location="Основной склад">5</quantity><quantity location="Владивосток">10</quantity>
 </offer>
 <offer id='"00120915"' available="true">
 <name>Датчик температуры воды 40-120 гр., сигнализация 98 гр., резьба 3/8-18NPT, Marine Rocket</name><price>1165</price><currencyId>RUR</currencyId>
@@ -42048,7 +42058,7 @@ A - сигнализация (на лампочку, аварийная сигн
 <param name="Диаметр стойки" group="Характеристики">60</param>
 <param name="Кол-во в зав.упаковке" group="Характеристики">10</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/osnovanie-d229-mm-d60-mm-vreznoe-dlya-stoek-plug-in-00177114.html</param>
-<quantity location="Основной склад">0</quantity><quantity location="Владивосток">31</quantity>
+<quantity location="Основной склад">0</quantity><quantity location="Владивосток">30</quantity>
 </offer>
 <offer id='"00179954"' available="true">
 <name>Стойка для сидений 325-457 мм c переходником, алюминий, Marine Rocket</name><price>12491</price><currencyId>RUR</currencyId>
@@ -42090,7 +42100,7 @@ A - сигнализация (на лампочку, аварийная сигн
 <param name="Кол-во в зав.упаковке" group="Характеристики">20</param>
 <param name="Крепежные размеры" group="Характеристики">5&quot; х 5&quot;</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/osnovanie-pod-sidene-vraschayuscheesya-analog-c12561-marine-rocket-00181344.html</param>
-<quantity location="Основной склад">0</quantity><quantity location="Владивосток">563</quantity>
+<quantity location="Основной склад">0</quantity><quantity location="Владивосток">562</quantity>
 </offer>
 <offer id='"00182256"' available="true">
 <name>Основание под сиденье, вращающееся с возвратным механизмом</name><price>1008</price><currencyId>RUR</currencyId>
@@ -46179,7 +46189,7 @@ T71FC, T72FC, T73NR FC, T81FC, T82FC, T83NRFC. Длина троса: 5.49. Те
 <param name="Тип/аналог" group="Характеристики">C8</param>
 <param name="Диаметр  резьбы" group="Характеристики">10-32 UNF (4.826 мм)</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/tros-distancionnogo-upravleniya-c8-10ft-marine-rocket-00173887.html</param>
-<quantity location="Основной склад">1</quantity><quantity location="Владивосток">15</quantity>
+<quantity location="Основной склад">1</quantity><quantity location="Владивосток">13</quantity>
 </offer>
 <offer id='"00173888"' available="true">
 <name>Трос дистанционного управления C8-11FT, Marine Rocket</name><price>2581</price><currencyId>RUR</currencyId>
@@ -47543,7 +47553,7 @@ T71FC, T72FC, T73NR FC, T81FC, T82FC, T83NRFC. Длина троса: 5.49. Те
 <param name="Страна производителя" group="Информация о производителе">Греция</param>
 <param name="Страна производства" group="Информация о производителе">Греция</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/yakor-plavuchiy-650h750-mm-dlya-katerov-do-20-ft-6-m-00175971.html</param>
-<quantity location="Основной склад">3</quantity><quantity location="Владивосток">6</quantity>
+<quantity location="Основной склад">2</quantity><quantity location="Владивосток">6</quantity>
 </offer>
 <offer id='"00195960"' available="true">
 <name>Якорь Плуг (CQR) 5 кг, оцинкованный Marine Rocket</name><price>3416</price><currencyId>RUR</currencyId>
@@ -52129,7 +52139,7 @@ T71FC, T72FC, T73NR FC, T81FC, T82FC, T83NRFC. Длина троса: 5.49. Те
 <param name="Ширина концевика под щетку" group="Размеры и вес">5.5</param>
 <param name="Кол-во в зав.упаковке" group="Характеристики">1</param>
 <param name="Регулируемый" group="Характеристики">да</param>
-<quantity location="Основной склад">4</quantity><quantity location="Владивосток">7</quantity>
+<quantity location="Основной склад">0</quantity><quantity location="Владивосток">1</quantity>
 </offer>
 <offer id='"00004636"' available="true">
 <name>Рычаг стеклоочистителя, ручной с щеткой 322 мм (14)</name><price>2655</price><currencyId>RUR</currencyId>
@@ -54238,7 +54248,7 @@ WEM1233A_MR
 <param name="Кол-во в зав.упаковке" group="Характеристики">6</param>
 <param name="Крепление к корпусу" group="Характеристики">съёмная стойка</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/ogon-topovyy-na-stoyke-24-svetodiodnyy-12-24-v-00120412.html</param>
-<quantity location="Основной склад">70</quantity><quantity location="Владивосток">177</quantity>
+<quantity location="Основной склад">69</quantity><quantity location="Владивосток">177</quantity>
 </offer>
 <offer id='"00120415"' available="true">
 <name>Огонь топовый на стойке, складывающийся 9 LED</name><price>3534</price><currencyId>RUR</currencyId>
@@ -63875,7 +63885,7 @@ MR20FH</param>
 
 Никогда не закрашивайте защитные аноды!</param>
 <param name="Кол-во в зав. упаковке" group="Характеристики">1</param>
-<quantity location="Основной склад">23</quantity><quantity location="Владивосток">6</quantity>
+<quantity location="Основной склад">23</quantity><quantity location="Владивосток">4</quantity>
 </offer>
 <offer id='"00183097"' available="true">
 <name>Анод алюминиевый для валолинии, D40 мм</name><price>1298</price><currencyId>RUR</currencyId>
@@ -65070,7 +65080,7 @@ MR20FH</param>
 <param name="Размеры" group="Размеры и вес">108х29</param>
 <param name="Кол-во светодиодов" group="Характеристики">12</param>
 <param name="Длина провода" group="Размеры и вес">3</param>
-<param name="Мощность потребления" group="Характеристики">30/30/30</param>
+<param name="Мощность потребления" group="Характеристики">80</param>
 <param name="Бренд" group="Информация о производителе">Marine Rocket</param>
 <param name="Страна производителя" group="Информация о производителе">Китай</param>
 <param name="Рабочее напряжение, DC" group="Характеристики">12/24</param>
@@ -65136,7 +65146,7 @@ MR20FH</param>
 <param name="Размеры" group="Размеры и вес">102х26</param>
 <param name="Кол-во светодиодов" group="Характеристики">108</param>
 <param name="Длина провода" group="Размеры и вес">1.5</param>
-<param name="Мощность потребления" group="Характеристики">5.2/5.2</param>
+<param name="Мощность потребления" group="Характеристики">10.4</param>
 <param name="Бренд" group="Информация о производителе">Marine Rocket</param>
 <param name="Страна производителя" group="Информация о производителе">Китай</param>
 <param name="Рабочее напряжение, DC" group="Характеристики">12</param>
@@ -65730,7 +65740,7 @@ MR20FH</param>
 11141-97JL0
 1114197JL
 11141-97JL</param>
-<quantity location="Основной склад">2</quantity><quantity location="Владивосток">9</quantity>
+<quantity location="Основной склад">1</quantity><quantity location="Владивосток">9</quantity>
 </offer>
 <offer id='"00198988"' available="true">
 <name>Подводный огонь, Green, AquaIDEA</name><price>44068</price><currencyId>RUR</currencyId>
@@ -71028,7 +71038,7 @@ MR20FH</param>
 <param name="Количество выходных каналов" group="Головное устройство">4</param>
 <param name="Мощность максимальная" group="Головное устройство">4х45</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/morskaya-magnitola-mrh-301-zone-control-chernyy-obodok-marine-rocket-00192123.html</param>
-<quantity location="Основной склад">5</quantity><quantity location="Владивосток">6</quantity>
+<quantity location="Основной склад">4</quantity><quantity location="Владивосток">6</quantity>
 </offer>
 <offer id='"11541938"' available="true">
 <name>Морская магнитола BOSS MGR300B</name><price>18453</price><currencyId>RUR</currencyId>
@@ -73916,7 +73926,7 @@ Yamaha все модели от 50 до 300 л.с. Материал: алюми�
 <param name="Страна производителя" group="Информация о производителе">США</param>
 <param name="Длина антенны" group="Характеристики">500</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/antenna-vynosnaya-boss-mrant12-00177579.html</param>
-<quantity location="Основной склад">43</quantity><quantity location="Владивосток">26</quantity>
+<quantity location="Основной склад">39</quantity><quantity location="Владивосток">26</quantity>
 </offer>
 <offer id='"11392988"' available="true">
 <name>Крышка глушителя Yamaha XL1200</name><price>5921</price><currencyId>RUR</currencyId>
@@ -77622,7 +77632,7 @@ YS1-15200-HP-00</param>
 <param name="Кол-во в зав.упаковке" group="Характеристики">1</param>
 <param name="Длина рулевой тяги, см" group="Размеры">26 - 31</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/tyaga-rulevaya-reguliruemaya-universalnaya-00159940.html</param>
-<quantity location="Основной склад">68</quantity><quantity location="Владивосток">37</quantity>
+<quantity location="Основной склад">67</quantity><quantity location="Владивосток">36</quantity>
 </offer>
 <offer id='"11452075"' available="true">
 <name>Катушка зажигания (№2) Marine Rocket (30F-01.02.08.00)</name><price>1500</price><currencyId>RUR</currencyId>
@@ -85792,7 +85802,7 @@ F1K-U2663-01-00</param>
 <param name="Страна производителя" group="Информация о производителе">Тайвань</param>
 <param name="Страна производства" group="Информация о производителе">Тайвань</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/remkomplekt-verhnego-reduktora-sp-dp-volvo-penta-omax-00157221.html</param>
-<quantity location="Основной склад">6</quantity><quantity location="Владивосток">20</quantity>
+<quantity location="Основной склад">5</quantity><quantity location="Владивосток">20</quantity>
 </offer>
 <offer id='"00159139"' available="true">
 <name>Ремкомплект помпы Honda BF35-50, (+ 2 сальника), Omax</name><price>922</price><currencyId>RUR</currencyId>
@@ -85915,7 +85925,7 @@ F1K-U2663-01-00</param>
 <param name="2-тактные моторы" group="Характеристики">40V, 40Y, 50H</param>
 <param name="4-тактные моторы" group="Характеристики">F40A/V/H/D, F50A/D/H/F, F60A/F/C</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/remkomplekt-pompy-c-korpusom-yamaha-40-50-60-omax-00159170.html</param>
-<quantity location="Основной склад">6</quantity><quantity location="Владивосток">17</quantity>
+<quantity location="Основной склад">5</quantity><quantity location="Владивосток">17</quantity>
 </offer>
 <offer id='"00159176"' available="true">
 <name>Ремкомплект помпы с корпусом Yamaha F8-F9.9/ 9.9D-15D, Omax</name><price>3139</price><currencyId>RUR</currencyId>
@@ -86106,7 +86116,7 @@ F1K-U2663-01-00</param>
 1740087L0
 17400-87L0</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/remkomplekt-pompy-suzuki-df70a-df90a-omax-00159261.html</param>
-<quantity location="Основной склад">6</quantity><quantity location="Владивосток">8</quantity>
+<quantity location="Основной склад">5</quantity><quantity location="Владивосток">8</quantity>
 </offer>
 <offer id='"00159267"' available="true">
 <name>Ремкомплект помпы с корпусом Yamaha F30-F40, Omax</name><price>3021</price><currencyId>RUR</currencyId>
@@ -86644,7 +86654,7 @@ F1K-U2663-01-00</param>
 <param name="Каталожный номер" group="Номера в каталоге">3T5873223
 3T5-87322-3</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/remkomplekt-pompy-tohatsu-md40-50a-b-omax-00165572.html</param>
-<quantity location="Основной склад">0</quantity><quantity location="Владивосток">10</quantity>
+<quantity location="Основной склад">0</quantity><quantity location="Владивосток">9</quantity>
 </offer>
 <offer id='"00165574"' available="true">
 <name>Ремкомплект помпы Mercury 6-15, Omax</name><price>5334</price><currencyId>RUR</currencyId>
@@ -89292,32 +89302,11 @@ DPR-C.</param>
 <offer id='"11597836"' available="true">
 <name>Дистанционное управление правый борт Yamaha-701, Omax</name><price>12357</price><currencyId>RUR</currencyId>
 <categoryId>28</categoryId>
-<picture>https://wsrv.nl/?url=https%3A%2F%2Fimages.1000size.ru%2Fuploads%2Fimages%2Fitems%2Fmax%2Frychag-gaza-du-y701-pravyy-omax_834965_807840715.jpg&amp;w=1200&amp;h=1200&amp;fit=contain&amp;bg=white&amp;output=jpg&amp;q=90</picture>
-<vendor>Omax</vendor>
+<picture>https://avatars.mds.yandex.net/get-yastore/18104899/swbfs4z8g8lp9t2mnp9cvjwdc95lr29p/orig</picture>
 <model>&quot;11597836&quot;</model>
-<description>Дистанционное управление правый борт Yamaha-701, Omax. Примечание: Используется с тросами С2, С8, MACHZero. Управление газом: есть. Управление реверсом: есть. Управление тримом: нет. Принцип газа: тянет. Кол-во двигателей: 1. Кнопка стопа: есть. Замок зажигания: нет. Зуммер: нет. Кабель д/у: есть. Установка: накладная. Длина кабеля: 5. К-во контактов разъёма: 2. Бренд: Omax. Производитель: Omax. Страна производителя: Тайвань. Сторона установки: правый борт. Перенос рычага на другую сторону: нет. Вес: 3080 г</description>
+<description>Дистанционное управление правый борт Yamaha-701, Omax. Примечание: Используется с тросами С2, С8, MACHZero. Управление газом: есть. Управление реверсом: есть. Управление тримом: нет. Принцип газа: тянет. Кол-во двигателей: 1. Кнопка стопа: есть. Замок зажигания: нет. Зуммер: нет. Кабель д/у: есть. Установка: накладная. Длина кабеля: 5. К-во контактов разъёма: 2. Бренд: Omax. Производитель: Omax. Страна производителя: Тайвань. Сторона установки: правый борт. Перенос рычага на другую сторону: нет. Вес: 200 г</description>
 <param name="articul">&quot;11597836&quot;</param>
-<param name="picture">https://images.1000size.ru/uploads/images/items/max/rychag-gaza-du-y701-pravyy-omax_834965_4032263087.jpg</param>
-<param name="Примечание" group="Примечание">Используется с тросами С2, С8, MACHZero</param>
-<param name="Управление газом" group="Характеристики">есть</param>
-<param name="Управление реверсом" group="Характеристики">есть</param>
-<param name="Управление тримом" group="Характеристики">нет</param>
-<param name="Принцип газа" group="Характеристики">тянет</param>
-<param name="Кол-во двигателей" group="Характеристики">1</param>
-<param name="Кнопка стопа" group="Характеристики">есть</param>
-<param name="Замок зажигания" group="Характеристики">нет</param>
-<param name="Зуммер" group="Характеристики">нет</param>
-<param name="Кабель д/у" group="Характеристики">есть</param>
-<param name="Установка" group="Характеристики">накладная</param>
-<param name="Длина кабеля" group="Характеристики">5</param>
-<param name="К-во контактов разъёма" group="Характеристики">2</param>
-<param name="Бренд" group="Информация о производителе">Omax</param>
-<param name="Производитель" group="Информация о производителе">Omax</param>
-<param name="Страна производителя" group="Информация о производителе">Тайвань</param>
-<param name="Сторона установки" group="Характеристики">правый борт</param>
-<param name="Перенос рычага на другую сторону" group="Характеристики">нет</param>
-<param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/rychag-gaza-du-y701-pravyy-omax-11597836.html</param>
-<quantity location="Основной склад">0</quantity><quantity location="Владивосток">1</quantity>
+<quantity location="Основной склад">0</quantity><quantity location="Владивосток">0</quantity>
 </offer>
 <offer id='"00198993"' available="true">
 <name>Румпель Yamaha 9.9-15/F6-9.9, Omax</name><price>3789</price><currencyId>RUR</currencyId>
@@ -90224,7 +90213,7 @@ DPR-C.</param>
 12892-93J00
 1289293J0
 12892-93J0</param>
-<quantity location="Основной склад">2</quantity><quantity location="Владивосток">4</quantity>
+<quantity location="Основной склад">2</quantity><quantity location="Владивосток">3</quantity>
 </offer>
 <offer id='"00053857"' available="true">
 <name>Шайба толкателя клапана Suzuki (238)</name><price>1908</price><currencyId>RUR</currencyId>
@@ -90350,7 +90339,7 @@ DPR-C.</param>
 12892-93J00
 1289293J0
 12892-93J0</param>
-<quantity location="Основной склад">0</quantity><quantity location="Владивосток">5</quantity>
+<quantity location="Основной склад">0</quantity><quantity location="Владивосток">3</quantity>
 </offer>
 <offer id='"00055715"' available="true">
 <name>Шайба толкателя клапана Suzuki (245)</name><price>2076</price><currencyId>RUR</currencyId>
@@ -90371,7 +90360,7 @@ DPR-C.</param>
 12892-93J00
 1289293J0
 12892-93J0</param>
-<quantity location="Основной склад">0</quantity><quantity location="Владивосток">4</quantity>
+<quantity location="Основной склад">0</quantity><quantity location="Владивосток">1</quantity>
 </offer>
 <offer id='"00064863"' available="true">
 <name>Гайка Suzuki</name><price>2074</price><currencyId>RUR</currencyId>
@@ -93274,7 +93263,7 @@ MREF30F</param>
 <param name="Каталожный номер" group="Номера в каталоге">3B2640200
 3B2-64020-0</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/shesternya-reduktora-tohatsu-m6b-m8b-m9-8b-mfs8a-mfs9-8a-pinon-b-omax-00146135.html</param>
-<quantity location="Основной склад">6</quantity><quantity location="Владивосток">2</quantity>
+<quantity location="Основной склад">5</quantity><quantity location="Владивосток">2</quantity>
 </offer>
 <offer id='"00146142"' available="true">
 <name>Шестерня редуктора Suzuki DT/DF9.9-15 (пиньон), Omax</name><price>1591</price><currencyId>RUR</currencyId>
@@ -102777,7 +102766,7 @@ Yamaha: 9.9F, 9.9, 15F - 1P1r = 1 искра на 1 оборот. Материа
 <param name="Кол-во в зав.упаковке" group="Характеристики">1</param>
 <param name="Крепежные размеры" group="Характеристики">5&quot; х 5&quot;</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/stoyka-dlya-sideniy-waverider-reguliruemaya-340-450-mm-00176294.html</param>
-<quantity location="Основной склад">1</quantity><quantity location="Владивосток">12</quantity>
+<quantity location="Основной склад">1</quantity><quantity location="Владивосток">11</quantity>
 </offer>
 <offer id='"00189568"' available="true">
 <name>Крепление сиденья к стойке 60 мм, Marine Rocket</name><price>5889</price><currencyId>RUR</currencyId>
@@ -104270,7 +104259,7 @@ MR9521-V12/24. Вес: 340 г</description>
 <param name="Скорость (к-во)" group="Характеристики">2</param>
 <param name="Крутящий момент" group="Характеристики">12</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/elektroprivod-stekloochistitelya-12-v-os-2-marine-rocket-00197700.html</param>
-<quantity location="Основной склад">0</quantity><quantity location="Владивосток">30</quantity>
+<quantity location="Основной склад">0</quantity><quantity location="Владивосток">25</quantity>
 </offer>
 <offer id='"00197701"' available="true">
 <name>Электропривод стеклоочистителя 12 В (ось 2), усиленный Marine Rocket</name><price>7594</price><currencyId>RUR</currencyId>
@@ -106868,7 +106857,7 @@ Marine Rocket Prime обеспечивает уверенное качество
 <param name="Встроенный усилитель" group="Характеристики">нет</param>
 <param name="Мощность максимальная, 4 Ом" group="Характеристики">600</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/podvesnoy-dinamik-na-targu-boss-mrwt69rgb-1-sht-boss-00187705.html</param>
-<quantity location="Основной склад">2</quantity><quantity location="Владивосток">2</quantity>
+<quantity location="Основной склад">0</quantity><quantity location="Владивосток">2</quantity>
 </offer>
 <offer id='"00190561"' available="true">
 <name>Акустика на таргу</name><price>12659</price><currencyId>RUR</currencyId>
@@ -106960,7 +106949,7 @@ Marine Rocket Prime обеспечивает уверенное качество
 <param name="Мощность номинальная, 4 Ом" group="Акустика (динамики)">2х60</param>
 <param name="Цвет акустики" group="Акустика (динамики)">белый + серый</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/morskaya-akustika-6-5-s-rgb-marine-rocket-00192405.html</param>
-<quantity location="Основной склад">139</quantity><quantity location="Владивосток">137</quantity>
+<quantity location="Основной склад">138</quantity><quantity location="Владивосток">137</quantity>
 </offer>
 <offer id='"00201841"' available="true">
 <name>Морская акустика 6.5 (1 шт.)</name><price>1772</price><currencyId>RUR</currencyId>
@@ -108782,7 +108771,7 @@ Bombardier: 0778113, 0911787, 3852544. Вес: 200 г</description>
 37143-99E01
 3714399E0
 37143-99E0</param>
-<quantity location="Основной склад">0</quantity><quantity location="Владивосток">3</quantity>
+<quantity location="Основной склад">0</quantity><quantity location="Владивосток">2</quantity>
 </offer>
 <offer id='"11388695"' available="true">
 <name>Кабель подключения аккумулятора Suzuki DF70-250, 3.7м</name><price>6456</price><currencyId>RUR</currencyId>
@@ -110091,24 +110080,14 @@ SX-ST. Бренд: Recmar. Производитель: Recmar. Страна пр
 <offer id='"11023395"' available="true">
 <name>Шестерня редуктора Suzuki DF8A/9.9A/B/15A/20A/DT9.9/15 (пиньон)</name><price>3341</price><currencyId>RUR</currencyId>
 <categoryId>255</categoryId>
-<picture>https://wsrv.nl/?url=https%3A%2F%2Fimages.1000size.ru%2Fuploads%2Fimages%2Fitems%2Fmax%2Fshesternya-reduktora-suzuki-df15a-20a-pinon_637420.jpg&amp;w=1200&amp;h=1200&amp;fit=contain&amp;bg=white&amp;output=jpg&amp;q=90</picture>
-<vendor>Suzuki</vendor>
+<picture>https://avatars.mds.yandex.net/get-yastore/18145482/pvgthgqbr7rkknl2hfqjcddwtw4fhrld/orig</picture>
 <model>&quot;11023395&quot;</model>
 <description>Шестерня редуктора Suzuki DF8A/9.9A/B/15A/20A/DT9.9/15 (пиньон). Количество в упаковке: 1. Бренд: Suzuki. Производитель: Suzuki. Страна производителя: Япония. Каталожный номер: 5731199J10
 57311-99J10
 5731199J1
 57311-99J1. Вес: 55 г</description>
 <param name="articul">&quot;11023395&quot;</param>
-<param name="picture">https://images.1000size.ru/uploads/images/items/max/shesternya-reduktora-suzuki-df15a-20a-pinon_637421.jpg</param>
-<param name="Количество в упаковке" group="Характеристики">1</param>
-<param name="Бренд" group="Информация о производителе">Suzuki</param>
-<param name="Производитель" group="Информация о производителе">Suzuki</param>
-<param name="Страна производителя" group="Информация о производителе">Япония</param>
-<param name="Каталожный номер" group="Номера в каталоге">5731199J10
-57311-99J10
-5731199J1
-57311-99J1</param>
-<quantity location="Основной склад">1</quantity><quantity location="Владивосток">0</quantity>
+<quantity location="Основной склад">0</quantity><quantity location="Владивосток">0</quantity>
 </offer>
 <offer id='"00156838"' available="true">
 <name>Шестерня редуктора Suzuki DF8A/9.9A/B/15A/20A/DT9.9/15 (пиньон), Omax</name><price>1669</price><currencyId>RUR</currencyId>
@@ -110525,7 +110504,7 @@ Suzuki DF40AT/50AT/60AT/70AT/80AT/90AT/100A-250T/Z</param>
 <param name="Страна производства" group="Информация о производителе">Испания</param>
 <param name="Каталожный номер" group="Номера в каталоге">Volvo: 852984; Bombardier: 0852984</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/shesternya-trima-volvo-penta-recmar-11595828.html</param>
-<quantity location="Основной склад">4</quantity><quantity location="Владивосток">0</quantity>
+<quantity location="Основной склад">3</quantity><quantity location="Владивосток">0</quantity>
 </offer>
 <offer id='"11607752"' available="true">
 <name>Датчик температуры Volvo Penta 3.0\4.3\5.0\5.7 (1998-07), Recmar</name><price>1</price><currencyId>RUR</currencyId>
@@ -111738,7 +111717,7 @@ MREF115FEL-T
 MREF130FEL-T</param>
 <param name="Бренд" group="Информация о производителе">Marine Rocket</param>
 <param name="Страна производителя" group="Информация о производителе">Китай</param>
-<quantity location="Основной склад">0</quantity><quantity location="Владивосток">69</quantity>
+<quantity location="Основной склад">0</quantity><quantity location="Владивосток">59</quantity>
 </offer>
 <offer id='"00201656"' available="true">
 <name>Погружной насос SeaFlo, 18л/мин, 1.2 бар, 12 В</name><price>3152</price><currencyId>RUR</currencyId>
@@ -112776,7 +112755,7 @@ MREF130FEL-T</param>
 <param name="Бренд" group="Информация о производителе">SLP</param>
 <param name="Производитель" group="Информация о производителе">SLP</param>
 <param name="Страна производителя" group="Информация о производителе">Швеция</param>
-<quantity location="Основной склад">8</quantity><quantity location="Владивосток">12</quantity>
+<quantity location="Основной склад">8</quantity><quantity location="Владивосток">62</quantity>
 </offer>
 <offer id='"11665881"' available="true">
 <name>Прокладка Volvo Penta 2001-2003.QD/MD70/MD-5-17, SLP</name><price>77</price><currencyId>RUR</currencyId>
@@ -112815,7 +112794,7 @@ MREF130FEL-T</param>
 <param name="Бренд" group="Информация о производителе">SLP</param>
 <param name="Производитель" group="Информация о производителе">SLP</param>
 <param name="Страна производителя" group="Информация о производителе">Швеция</param>
-<quantity location="Основной склад">10</quantity><quantity location="Владивосток">20</quantity>
+<quantity location="Основной склад">10</quantity><quantity location="Владивосток">40</quantity>
 </offer>
 <offer id='"11665876"' available="true">
 <name>Прокладка Volvo Penta, SLP</name><price>145</price><currencyId>RUR</currencyId>
@@ -112932,7 +112911,7 @@ MREF130FEL-T</param>
 <param name="Бренд" group="Информация о производителе">SLP</param>
 <param name="Производитель" group="Информация о производителе">SLP</param>
 <param name="Страна производителя" group="Информация о производителе">Швеция</param>
-<quantity location="Основной склад">10</quantity><quantity location="Владивосток">20</quantity>
+<quantity location="Основной склад">10</quantity><quantity location="Владивосток">24</quantity>
 </offer>
 <offer id='"11665848"' available="true">
 <name>Прокладка Volvo Penta, SLP</name><price>611</price><currencyId>RUR</currencyId>
@@ -112997,7 +112976,7 @@ MREF130FEL-T</param>
 <param name="Бренд" group="Информация о производителе">SLP</param>
 <param name="Производитель" group="Информация о производителе">SLP</param>
 <param name="Страна производителя" group="Информация о производителе">Швеция</param>
-<quantity location="Основной склад">8</quantity><quantity location="Владивосток">12</quantity>
+<quantity location="Основной склад">8</quantity><quantity location="Владивосток">16</quantity>
 </offer>
 <offer id='"11665817"' available="true">
 <name>Прокладка ГБЦ Volvo Penta 41-44, 300, SLP</name><price>7816</price><currencyId>RUR</currencyId>
@@ -113010,7 +112989,7 @@ MREF130FEL-T</param>
 <param name="Бренд" group="Информация о производителе">SLP</param>
 <param name="Производитель" group="Информация о производителе">SLP</param>
 <param name="Страна производителя" group="Информация о производителе">Швеция</param>
-<quantity location="Основной склад">1</quantity><quantity location="Владивосток">1</quantity>
+<quantity location="Основной склад">1</quantity><quantity location="Владивосток">11</quantity>
 </offer>
 <offer id='"00200527"' available="true">
 <name>Прокладка под головку цилиндров Yamaha 40, MR</name><price>460</price><currencyId>RUR</currencyId>
@@ -113604,7 +113583,7 @@ Tohatsu: 332-60006-0</param>
 <param name="Страна производства" group="Информация о производителе">Испания</param>
 <param name="Каталожный номер" group="Номера в каталоге">Volvo: 1542247, 24250185, 859032, 860685, 861251</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/prokladka-poddona-volvo-penta-40-41-kad42a-kamd42a-d43-44-300-recmar-11595850.html</param>
-<quantity location="Основной склад">3</quantity><quantity location="Владивосток">8</quantity>
+<quantity location="Основной склад">3</quantity><quantity location="Владивосток">4</quantity>
 </offer>
 <offer id='"11595849"' available="true">
 <name>Прокладка интеркуллера Volvo Penta, Recmar</name><price>1261</price><currencyId>RUR</currencyId>
@@ -114542,7 +114521,7 @@ Bombardier: 0508556, 0778149, 0909314, 3852468</param>
 <param name="Бренд" group="Информация о производителе">Marine Rocket</param>
 <param name="Страна производителя" group="Информация о производителе">Китай</param>
 <param name="Страна производства" group="Информация о производителе">Китай</param>
-<quantity location="Основной склад">2</quantity><quantity location="Владивосток">3</quantity>
+<quantity location="Основной склад">1</quantity><quantity location="Владивосток">3</quantity>
 </offer>
 <offer id='"11452088"' available="true">
 <name>Прокладка дейдвуда Marine Rocket (9.8F-02.08)</name><price>342</price><currencyId>RUR</currencyId>
@@ -115307,7 +115286,7 @@ Bombardier: 0508556, 0778149, 0909314, 3852468</param>
 142129631
 14212-9631</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/prokladka-glushitelya-suzuki-dt25-30-omax-00146112.html</param>
-<quantity location="Основной склад">6</quantity><quantity location="Владивосток">10</quantity>
+<quantity location="Основной склад">5</quantity><quantity location="Владивосток">10</quantity>
 </offer>
 <offer id='"00146111"' available="true">
 <name>Прокладка глушителя Suzuki DT40, Omax</name><price>149</price><currencyId>RUR</currencyId>
@@ -116232,7 +116211,7 @@ Bombardier: 0508556, 0778149, 0909314, 3852468</param>
 <param name="Бренд" group="Информация о производителе">SLP</param>
 <param name="Страна производителя" group="Информация о производителе">Швеция</param>
 <param name="Страна производства" group="Информация о производителе">Швеция</param>
-<quantity location="Основной склад">8</quantity><quantity location="Владивосток">22</quantity>
+<quantity location="Основной склад">8</quantity><quantity location="Владивосток">32</quantity>
 </offer>
 <offer id='"11665879"' available="true">
 <name>Сальник Volvo Penta D4-44/300, SLP</name><price>250</price><currencyId>RUR</currencyId>
@@ -116311,7 +116290,7 @@ Bombardier: 0508556, 0778149, 0909314, 3852468</param>
 <param name="Бренд" group="Информация о производителе">SLP</param>
 <param name="Страна производителя" group="Информация о производителе">Швеция</param>
 <param name="Страна производства" group="Информация о производителе">Швеция</param>
-<quantity location="Основной склад">4</quantity><quantity location="Владивосток">8</quantity>
+<quantity location="Основной склад">4</quantity><quantity location="Владивосток">18</quantity>
 </offer>
 <offer id='"00199229"' available="true">
 <name>Сальник 20x34x6.5, Suzuki</name><price>135</price><currencyId>RUR</currencyId>
@@ -118778,7 +118757,7 @@ Bombardier: 0508556, 0778149, 0909314, 3852468</param>
 309-60111-0
 2695348</param>
 <param name="Диаметр внешний" group="Характеристики">24</param>
-<quantity location="Основной склад">7</quantity><quantity location="Владивосток">7</quantity>
+<quantity location="Основной склад">5</quantity><quantity location="Владивосток">7</quantity>
 </offer>
 <offer id='"00156975"' available="true">
 <name>Сальник 20х42х8, Mercury/Tohatsu 2.5-3.5, Omax</name><price>135</price><currencyId>RUR</currencyId>
@@ -119213,7 +119192,7 @@ Bombardier: 0508556, 0778149, 0909314, 3852468</param>
 092833006
 09283-3006</param>
 <param name="Диаметр внешний" group="Характеристики">55</param>
-<quantity location="Основной склад">17</quantity><quantity location="Владивосток">8</quantity>
+<quantity location="Основной склад">15</quantity><quantity location="Владивосток">8</quantity>
 </offer>
 <offer id='"00156934"' available="true">
 <name>Сальник 25х45х5, Suzuki, Omax</name><price>162</price><currencyId>RUR</currencyId>
@@ -120644,7 +120623,7 @@ Bombardier: 0508556, 0778149, 0909314, 3852468</param>
 <param name="Производитель" group="Информация о производителе">Sea First</param>
 <param name="Страна производителя" group="Информация о производителе">Корея</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/plita-trancevaya-vynos-10-sm-k-t-iz-2-h-polovinok-sea-first-00199402.html</param>
-<quantity location="Основной склад">3</quantity><quantity location="Владивосток">3</quantity>
+<quantity location="Основной склад">3</quantity><quantity location="Владивосток">1</quantity>
 </offer>
 <offer id='"00201584"' available="true">
 <name>Морская камера ночного видения, черная</name><price>1000</price><currencyId>RUR</currencyId>
@@ -127054,7 +127033,7 @@ Tohatsu: 101-00121-0, 3AB001210M</param>
 09168-10022
 091681002
 09168-1002</param>
-<quantity location="Основной склад">7</quantity><quantity location="Владивосток">1076</quantity>
+<quantity location="Основной склад">7</quantity><quantity location="Владивосток">1070</quantity>
 </offer>
 <offer id='"00008406"' available="true">
 <name>Прокладка под блок двигателя Suzuki DF90T-140T</name><price>1000</price><currencyId>RUR</currencyId>
@@ -127482,7 +127461,7 @@ Tohatsu: 101-00121-0, 3AB001210M</param>
 <param name="Цвет метки" group="Характеристики">синий</param>
 <param name="Амортизатор, усилие" group="Характеристики">27</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/komplekt-trancevyh-plit-nauticus-serii-sx-cvet-belyy-razmer-9-5-h10-00180204.html</param>
-<quantity location="Основной склад">0</quantity><quantity location="Владивосток">28</quantity>
+<quantity location="Основной склад">0</quantity><quantity location="Владивосток">26</quantity>
 </offer>
 <offer id='"00180203"' available="true">
 <name>Комплект транцевых плит Nauticus серии SX, цвет белый, размер 9.5х10</name><price>21415</price><currencyId>RUR</currencyId>
@@ -128233,7 +128212,7 @@ Lectrotab, Lenco, Eltrim, Ultraflex, Minn Kota</param>
 <param name="Бренд" group="Информация о производителе">SLP</param>
 <param name="Производитель" group="Информация о производителе">SLP</param>
 <param name="Страна производителя" group="Информация о производителе">Швеция</param>
-<quantity location="Основной склад">1</quantity><quantity location="Владивосток">3</quantity>
+<quantity location="Основной склад">1</quantity><quantity location="Владивосток">5</quantity>
 </offer>
 <offer id='"11608447"' available="true">
 <name>Клапан холостого хода Volvo Penta 4.3\5.0\5.7\7.4, Recmar</name><price>8038</price><currencyId>RUR</currencyId>
@@ -128626,7 +128605,7 @@ MREF130FEL-T</param>
 <param name="Бренд" group="Информация о производителе">SLP</param>
 <param name="Производитель" group="Информация о производителе">SLP</param>
 <param name="Страна производителя" group="Информация о производителе">Швеция</param>
-<quantity location="Основной склад">8</quantity><quantity location="Владивосток">0</quantity>
+<quantity location="Основной склад">8</quantity><quantity location="Владивосток">20</quantity>
 </offer>
 <offer id='"11665858"' available="true">
 <name>Уплотнение шестерни трима Volvo Penta, SLP</name><price>278</price><currencyId>RUR</currencyId>
@@ -128639,7 +128618,7 @@ MREF130FEL-T</param>
 <param name="Бренд" group="Информация о производителе">SLP</param>
 <param name="Производитель" group="Информация о производителе">SLP</param>
 <param name="Страна производителя" group="Информация о производителе">Швеция</param>
-<quantity location="Основной склад">8</quantity><quantity location="Владивосток">16</quantity>
+<quantity location="Основной склад">8</quantity><quantity location="Владивосток">36</quantity>
 </offer>
 <offer id='"11665853"' available="true">
 <name>Уплотнение Volvo Penta, SLP</name><price>595</price><currencyId>RUR</currencyId>
@@ -128652,7 +128631,7 @@ MREF130FEL-T</param>
 <param name="Бренд" group="Информация о производителе">SLP</param>
 <param name="Производитель" group="Информация о производителе">SLP</param>
 <param name="Страна производителя" group="Информация о производителе">Швеция</param>
-<quantity location="Основной склад">5</quantity><quantity location="Владивосток">10</quantity>
+<quantity location="Основной склад">5</quantity><quantity location="Владивосток">20</quantity>
 </offer>
 <offer id='"11665852"' available="true">
 <name>Уплотнение обоймы гребного вала Suzuki/Volvo Penta DF25-30/DT20-30, SLP</name><price>230</price><currencyId>RUR</currencyId>
@@ -128665,7 +128644,7 @@ MREF130FEL-T</param>
 <param name="Бренд" group="Информация о производителе">SLP</param>
 <param name="Производитель" group="Информация о производителе">SLP</param>
 <param name="Страна производителя" group="Информация о производителе">Швеция</param>
-<quantity location="Основной склад">10</quantity><quantity location="Владивосток">30</quantity>
+<quantity location="Основной склад">10</quantity><quantity location="Владивосток">40</quantity>
 </offer>
 <offer id='"11665843"' available="true">
 <name>Уплотненение транцевого узла Volvo Penta, SLP</name><price>1195</price><currencyId>RUR</currencyId>
@@ -128691,7 +128670,7 @@ MREF130FEL-T</param>
 <param name="Бренд" group="Информация о производителе">SLP</param>
 <param name="Производитель" group="Информация о производителе">SLP</param>
 <param name="Страна производителя" group="Информация о производителе">Швеция</param>
-<quantity location="Основной склад">20</quantity><quantity location="Владивосток">30</quantity>
+<quantity location="Основной склад">20</quantity><quantity location="Владивосток">48</quantity>
 </offer>
 <offer id='"00202289"' available="true">
 <name>Уплотнение корпуса вала Suzuki</name><price>13878</price><currencyId>RUR</currencyId>
@@ -132761,7 +132740,7 @@ Yamaha:
 <offer id='"00015922"' available="true">
 <name>Уплотнение обоймы гребного вала Suzuki DF9.9-15/DT9.9-15</name><price>437</price><currencyId>RUR</currencyId>
 <categoryId>217</categoryId>
-<picture>https://wsrv.nl/?url=https%3A%2F%2Fimages.1000size.ru%2Fuploads%2Fimages%2Fitems%2Fmax%2Fuplotnenie-oboymy-grebnogo-vala-suzuki-df9-9-15-dt9-9-15_622586.jpg&amp;w=1200&amp;h=1200&amp;fit=contain&amp;bg=white&amp;output=jpg&amp;q=90</picture>
+<picture>https://avatars.mds.yandex.net/get-yastore/20341920/5qd2vx4mwgkgqpstch4wzlnjn8wxt244/orig</picture>
 <vendor>Suzuki</vendor>
 <model>&quot;00015922&quot;</model>
 <description>Уплотнение обоймы гребного вала Suzuki DF9.9-15/DT9.9-15. Бренд: Suzuki. Производитель: Suzuki. Страна производителя: Япония. Страна производства: Япония. Каталожный номер: 0928057002
@@ -132769,15 +132748,7 @@ Yamaha:
 092805700
 09280-5700. Вес: 30 г</description>
 <param name="articul">&quot;00015922&quot;</param>
-<param name="Бренд" group="Информация о производителе">Suzuki</param>
-<param name="Производитель" group="Информация о производителе">Suzuki</param>
-<param name="Страна производителя" group="Информация о производителе">Япония</param>
-<param name="Страна производства" group="Информация о производителе">Япония</param>
-<param name="Каталожный номер" group="Номера в каталоге">0928057002
-09280-57002
-092805700
-09280-5700</param>
-<quantity location="Основной склад">0</quantity><quantity location="Владивосток">3</quantity>
+<quantity location="Основной склад">0</quantity><quantity location="Владивосток">0</quantity>
 </offer>
 <offer id='"00011845"' available="true">
 <name>Кольцо уплотнительное Suzuki, d 10.8</name><price>590</price><currencyId>RUR</currencyId>
@@ -132924,7 +132895,7 @@ Yamaha:
 09280-22019
 092802201
 09280-2201</param>
-<quantity location="Основной склад">10</quantity><quantity location="Владивосток">61</quantity>
+<quantity location="Основной склад">10</quantity><quantity location="Владивосток">59</quantity>
 </offer>
 <offer id='"11665860"' available="true">
 <name>Подшипник Volvo Penta, SLP</name><price>1359</price><currencyId>RUR</currencyId>
@@ -132963,7 +132934,7 @@ Yamaha:
 <param name="Бренд" group="Информация о производителе">SLP</param>
 <param name="Страна производителя" group="Информация о производителе">Швеция</param>
 <param name="Страна производства" group="Информация о производителе">Швеция</param>
-<quantity location="Основной склад">8</quantity><quantity location="Владивосток">12</quantity>
+<quantity location="Основной склад">8</quantity><quantity location="Владивосток">16</quantity>
 </offer>
 <offer id='"11665807"' available="true">
 <name>Подшипник Volvo Penta, Volvo Penta, SLP</name><price>11657</price><currencyId>RUR</currencyId>
@@ -132978,7 +132949,7 @@ Yamaha:
 <param name="Бренд" group="Информация о производителе">SLP</param>
 <param name="Страна производителя" group="Информация о производителе">Швеция</param>
 <param name="Страна производства" group="Информация о производителе">Швеция</param>
-<quantity location="Основной склад">4</quantity><quantity location="Владивосток">6</quantity>
+<quantity location="Основной склад">4</quantity><quantity location="Владивосток">10</quantity>
 </offer>
 <offer id='"11597901"' available="true">
 <name>Подшипник Yamaha 25-30 (30x55x13), Omax</name><price>791</price><currencyId>RUR</currencyId>
@@ -134231,7 +134202,7 @@ DF140 s/n: ~ 682149;
 <param name="Бренд" group="Информация о производителе">SLP</param>
 <param name="Производитель" group="Информация о производителе">SLP</param>
 <param name="Страна производителя" group="Информация о производителе">Швеция</param>
-<quantity location="Основной склад">5</quantity><quantity location="Владивосток">15</quantity>
+<quantity location="Основной склад">5</quantity><quantity location="Владивосток">35</quantity>
 </offer>
 <offer id='"11665846"' available="true">
 <name>Винт крепления защитной крышки верхний Volvo Penta, SLP</name><price>584</price><currencyId>RUR</currencyId>
@@ -134244,7 +134215,7 @@ DF140 s/n: ~ 682149;
 <param name="Бренд" group="Информация о производителе">SLP</param>
 <param name="Производитель" group="Информация о производителе">SLP</param>
 <param name="Страна производителя" group="Информация о производителе">Швеция</param>
-<quantity location="Основной склад">8</quantity><quantity location="Владивосток">12</quantity>
+<quantity location="Основной склад">8</quantity><quantity location="Владивосток">16</quantity>
 </offer>
 <offer id='"00200702"' available="true">
 <name>Шайба 12.5x35x3, Suzuki</name><price>735</price><currencyId>RUR</currencyId>
@@ -135289,7 +135260,7 @@ DF140 s/n: ~ 682149;
 <param name="Каталожный номер" group="Номера в каталоге">9011908M1500
 90119-08M15-00</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/komplet-boltov-dlya-63dw007801-wh-om-00189820.html</param>
-<quantity location="Основной склад">3</quantity><quantity location="Владивосток">2</quantity>
+<quantity location="Основной склад">2</quantity><quantity location="Владивосток">2</quantity>
 </offer>
 <offer id='"11497649"' available="true">
 <name>Шпонка маховика Marine Rocket (F4-01.06.19)</name><price>100</price><currencyId>RUR</currencyId>
@@ -141729,7 +141700,7 @@ M30A4</param>
 940103-0800 шайбы (2шт)</param>
 <param name="2-тактные моторы" group="Характеристики">M25C3, M30A4</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/komplekt-podklyucheniya-distancionnogo-upravleniya-tohatsu-m25c3-30a4-omax-00159153.html</param>
-<quantity location="Основной склад">6</quantity><quantity location="Владивосток">5</quantity>
+<quantity location="Основной склад">6</quantity><quantity location="Владивосток">4</quantity>
 </offer>
 <offer id='"00157179"' available="true">
 <name>Пружина храповика Yamaha 40, Omax</name><price>106</price><currencyId>RUR</currencyId>
@@ -142298,7 +142269,7 @@ M30A4</param>
 <param name="Бренд" group="Информация о производителе">SLP</param>
 <param name="Производитель" group="Информация о производителе">SLP</param>
 <param name="Страна производителя" group="Информация о производителе">Швеция</param>
-<quantity location="Основной склад">2</quantity><quantity location="Владивосток">3</quantity>
+<quantity location="Основной склад">2</quantity><quantity location="Владивосток">13</quantity>
 </offer>
 <offer id='"11665839"' available="true">
 <name>Гофра Volvo Penta DP-G DPX-A, SLP</name><price>6339</price><currencyId>RUR</currencyId>
@@ -142337,7 +142308,7 @@ M30A4</param>
 <param name="Бренд" group="Информация о производителе">SLP</param>
 <param name="Производитель" group="Информация о производителе">SLP</param>
 <param name="Страна производителя" group="Информация о производителе">Швеция</param>
-<quantity location="Основной склад">2</quantity><quantity location="Владивосток">4</quantity>
+<quantity location="Основной склад">2</quantity><quantity location="Владивосток">6</quantity>
 </offer>
 <offer id='"00202263"' available="true">
 <name>Редуктор L Marine Rocket (EF130(L)-06.00.00.00)</name><price>362025</price><currencyId>RUR</currencyId>
@@ -146288,16 +146259,20 @@ A000V655300
 <param name="Бренд" group="Информация о производителе">SLP</param>
 <param name="Производитель" group="Информация о производителе">SLP</param>
 <param name="Страна производителя" group="Информация о производителе">Швеция</param>
-<quantity location="Основной склад">2</quantity><quantity location="Владивосток">3</quantity>
+<quantity location="Основной склад">2</quantity><quantity location="Владивосток">7</quantity>
 </offer>
 <offer id='"11665825"' available="true">
 <name>Шланг выхлопа Volvo Penta AQ 31, 41, Volvo Penta, SLP</name><price>4067</price><currencyId>RUR</currencyId>
 <categoryId>41</categoryId>
+<picture>https://wsrv.nl/?url=https%3A%2F%2Fimages.1000size.ru%2Fuploads%2Fimages%2Fitems%2Fmax%2Fshlang-vyhlopa-volvo-penta-aq-31-41-volvo-penta-slp_912551_859707091.jpg&amp;w=1200&amp;h=1200&amp;fit=contain&amp;bg=white&amp;output=jpg&amp;q=90</picture>
 <vendor>SLP</vendor>
 <model>&quot;11665825&quot;</model>
-<description>Шланг выхлопа Volvo Penta AQ 31, 41, Volvo Penta, SLP. Бренд: SLP. Производитель: SLP. Страна производителя: Швеция. Вес: 3000 г</description>
+<description>Шланг выхлопа Volvo Penta AQ 31, 41, Volvo Penta, SLP. Бренд: SLP. Производитель: SLP. Страна производителя: Швеция. Вес: 170 г</description>
 <param name="articul">&quot;11665825&quot;</param>
-<quantity location="Основной склад">0</quantity><quantity location="Владивосток">0</quantity>
+<param name="Бренд" group="Информация о производителе">SLP</param>
+<param name="Производитель" group="Информация о производителе">SLP</param>
+<param name="Страна производителя" group="Информация о производителе">Швеция</param>
+<quantity location="Основной склад">0</quantity><quantity location="Владивосток">6</quantity>
 </offer>
 <offer id='"11665822"' available="true">
 <name>Гофра Volvo Penta AQ280, SLP</name><price>13039</price><currencyId>RUR</currencyId>
@@ -146323,7 +146298,7 @@ A000V655300
 <param name="Бренд" group="Информация о производителе">SLP</param>
 <param name="Производитель" group="Информация о производителе">SLP</param>
 <param name="Страна производителя" group="Информация о производителе">Швеция</param>
-<quantity location="Основной склад">3</quantity><quantity location="Владивосток">0</quantity>
+<quantity location="Основной склад">3</quantity><quantity location="Владивосток">20</quantity>
 </offer>
 <offer id='"11665806"' available="true">
 <name>Гофра выхлопа Volvo Penta SX-A DPS-A, B, SLP</name><price>6937</price><currencyId>RUR</currencyId>
@@ -146639,7 +146614,7 @@ A000V655300
 <param name="Бренд" group="Информация о производителе">SLP</param>
 <param name="Производитель" group="Информация о производителе">SLP</param>
 <param name="Страна производителя" group="Информация о производителе">Швеция</param>
-<quantity location="Основной склад">3</quantity><quantity location="Владивосток">7</quantity>
+<quantity location="Основной склад">3</quantity><quantity location="Владивосток">11</quantity>
 </offer>
 <offer id='"11665865"' available="true">
 <name>Втулка Volvo Penta, SLP</name><price>471</price><currencyId>RUR</currencyId>
@@ -151989,7 +151964,7 @@ MR20FH. Вес: 3000 г</description>
 <param name="Бренд" group="Информация о производителе">SLP</param>
 <param name="Производитель" group="Информация о производителе">SLP</param>
 <param name="Страна производителя" group="Информация о производителе">Швеция</param>
-<quantity location="Основной склад">5</quantity><quantity location="Владивосток">2</quantity>
+<quantity location="Основной склад">5</quantity><quantity location="Владивосток">22</quantity>
 </offer>
 <offer id='"11665804"' available="true">
 <name>Помпа водяная Volvo Penta D4-180\210\225\260\300, SLP</name><price>95748</price><currencyId>RUR</currencyId>
@@ -155598,7 +155573,7 @@ Yamaha: 663-44322-00, 663-44322-00-00, 6634432200, 663443220000, 670-44322-00, 6
 <offer id='"00123531"' available="true">
 <name>Шпонка крыльчатки Suzuki DF8A/9.9A/15A/20A/DT9.9A/15A</name><price>126</price><currencyId>RUR</currencyId>
 <categoryId>126</categoryId>
-<picture>https://wsrv.nl/?url=https%3A%2F%2Fimages.1000size.ru%2Fuploads%2Fimages%2Fitems%2Fmax%2Fshponka-krylchatki-suzuki-df8a-9-9a-15a-20a-dt9-9a-15a_662140.jpg&amp;w=1200&amp;h=1200&amp;fit=contain&amp;bg=white&amp;output=jpg&amp;q=90</picture>
+<picture>https://avatars.mds.yandex.net/get-yastore/20341920/wnrcr9kbnp8m75c6vdlkmblgznhgmwvr/orig</picture>
 <vendor>Suzuki</vendor>
 <model>&quot;00123531&quot;</model>
 <description>Шпонка крыльчатки Suzuki DF8A/9.9A/15A/20A/DT9.9A/15A. Бренд: Suzuki. Производитель: Suzuki. Страна производителя: Япония. Каталожный номер: 0942003009
@@ -155606,14 +155581,7 @@ Yamaha: 663-44322-00, 663-44322-00-00, 6634432200, 663443220000, 670-44322-00, 6
 094200300
 09420-0300. Вес: 30 г</description>
 <param name="articul">&quot;00123531&quot;</param>
-<param name="Бренд" group="Информация о производителе">Suzuki</param>
-<param name="Производитель" group="Информация о производителе">Suzuki</param>
-<param name="Страна производителя" group="Информация о производителе">Япония</param>
-<param name="Каталожный номер" group="Номера в каталоге">0942003009
-09420-03009
-094200300
-09420-0300</param>
-<quantity location="Основной склад">0</quantity><quantity location="Владивосток">5</quantity>
+<quantity location="Основной склад">0</quantity><quantity location="Владивосток">0</quantity>
 </offer>
 <offer id='"00086921"' available="true">
 <name>Трубка водяная Suzuki DT/DF9.9-15</name><price>339</price><currencyId>RUR</currencyId>
@@ -155691,7 +155659,7 @@ DF2 - c 2012. Бренд: Suzuki. Производитель: Suzuki. Стран
 17582-93J00
 1758293J0
 17582-93J0</param>
-<quantity location="Основной склад">2</quantity><quantity location="Владивосток">4</quantity>
+<quantity location="Основной склад">2</quantity><quantity location="Владивосток">0</quantity>
 </offer>
 <offer id='"00079160"' available="true">
 <name>Трубка водяная Suzuki DF200-300 (X)</name><price>6656</price><currencyId>RUR</currencyId>
@@ -161670,7 +161638,7 @@ Yamaha: 682-11610-00, 682-11610-01, 682-11610-01-00, 682-11610-0100, 6821161000,
 
 Никогда не закрашивайте защитные аноды!</param>
 <param name="Кол-во в зав. упаковке" group="Характеристики">1</param>
-<quantity location="Основной склад">28</quantity><quantity location="Владивосток">0</quantity>
+<quantity location="Основной склад">26</quantity><quantity location="Владивосток">0</quantity>
 </offer>
 <offer id='"00183111"' available="true">
 <name>Анод цинковый для транцевых плит, D70 мм</name><price>472</price><currencyId>RUR</currencyId>
@@ -166467,7 +166435,7 @@ Mercury все модели от 50 до 300 V6  л.с.</param>
 <param name="Длина в бухте" group="Характеристики">25</param>
 <param name="Твердость" group="Характеристики">85-90</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/pokrytie-palubnoe-200mmx5mm-charcoal-marine-rocket-00187446.html</param>
-<quantity location="Основной склад">0</quantity><quantity location="Владивосток">7</quantity>
+<quantity location="Основной склад">0</quantity><quantity location="Владивосток">6</quantity>
 </offer>
 <offer id='"00179119"' available="true">
 <name>Покрытие палубное 200ммx5мм, черный, белая полоса, Marine Rocket</name><price>51787</price><currencyId>RUR</currencyId>
@@ -168626,7 +168594,7 @@ BF 60А 2010 г. - наст. время</param>
 <param name="Бренд" group="Информация о производителе">SLP</param>
 <param name="Производитель" group="Информация о производителе">SLP</param>
 <param name="Страна производителя" group="Информация о производителе">Швеция</param>
-<quantity location="Основной склад">5</quantity><quantity location="Владивосток">3</quantity>
+<quantity location="Основной склад">5</quantity><quantity location="Владивосток">7</quantity>
 </offer>
 <offer id='"11665821"' available="true">
 <name>Ремень Volvo Penta KAD32, SLP</name><price>5633</price><currencyId>RUR</currencyId>
@@ -168639,7 +168607,7 @@ BF 60А 2010 г. - наст. время</param>
 <param name="Бренд" group="Информация о производителе">SLP</param>
 <param name="Производитель" group="Информация о производителе">SLP</param>
 <param name="Страна производителя" group="Информация о производителе">Швеция</param>
-<quantity location="Основной склад">1</quantity><quantity location="Владивосток">3</quantity>
+<quantity location="Основной склад">1</quantity><quantity location="Владивосток">5</quantity>
 </offer>
 <offer id='"11665809"' available="true">
 <name>Ремень генератора Volvo Penta D3, SLP</name><price>3901</price><currencyId>RUR</currencyId>
@@ -168652,7 +168620,7 @@ BF 60А 2010 г. - наст. время</param>
 <param name="Бренд" group="Информация о производителе">SLP</param>
 <param name="Производитель" group="Информация о производителе">SLP</param>
 <param name="Страна производителя" group="Информация о производителе">Швеция</param>
-<quantity location="Основной склад">5</quantity><quantity location="Владивосток">15</quantity>
+<quantity location="Основной склад">5</quantity><quantity location="Владивосток">17</quantity>
 </offer>
 <offer id='"11608114"' available="true">
 <name>Ремень Volvo Penta 3.0 GL\GS, Recmar</name><price>1014</price><currencyId>RUR</currencyId>
@@ -168757,7 +168725,7 @@ BF 60А 2010 г. - наст. время</param>
 12761-93EL0
 1276193EL
 12761-93EL</param>
-<quantity location="Основной склад">0</quantity><quantity location="Владивосток">37</quantity>
+<quantity location="Основной склад">0</quantity><quantity location="Владивосток">36</quantity>
 </offer>
 <offer id='"11595383"' available="true">
 <name>Термостат Volvo Penta MD31 / MD41, KAD32, 42, 43, 44, 300, Recmar</name><price>4482</price><currencyId>RUR</currencyId>
@@ -169437,7 +169405,7 @@ BF 60А 2010 г. - наст. время</param>
 <param name="Петли" group="Материал изделия">алюминий</param>
 <param name="Рама/каркас" group="Материал изделия">пластик</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/kreslo-myagkoe-skladnoe-classic-sero-sinee-00174559.html</param>
-<quantity location="Основной склад">0</quantity><quantity location="Владивосток">3</quantity>
+<quantity location="Основной склад">0</quantity><quantity location="Владивосток">1</quantity>
 </offer>
 <offer id='"00201661"' available="true">
 <name>Замок зажигания с ключом и защитным колпачком</name><price>1965</price><currencyId>RUR</currencyId>
@@ -170777,7 +170745,7 @@ OFF - &quot;выключен&quot;. Тип: без фиксации. Вес: 14,
 <param name="Рабочее напряжение, DC" group="Характеристики">12/24</param>
 <param name="Ток номинальный (12В)" group="Характеристики">20</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/pereklyuchatel-dvuhpozicionnyy-on-on-12v-20a-6r-00197854.html</param>
-<quantity location="Основной склад">20</quantity><quantity location="Владивосток">20</quantity>
+<quantity location="Основной склад">19</quantity><quantity location="Владивосток">20</quantity>
 </offer>
 <offer id='"00197853"' available="true">
 <name>Переключатель двухпозиционный ON-OFF 12В/20А 3р с подсветкой</name><price>363</price><currencyId>RUR</currencyId>
@@ -171406,7 +171374,7 @@ OFF - &quot;выключен&quot;. Тип: без фиксации. Вес: 14,
 <param name="Кол-во в зав.упаковке" group="Характеристики">25</param>
 <param name="Ток номинальный (12В)" group="Характеристики">20</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/pereklyuchatel-dvuhpozicionnyy-on-off-12v-20a-2r-00117627.html</param>
-<quantity location="Основной склад">8</quantity><quantity location="Владивосток">34</quantity>
+<quantity location="Основной склад">7</quantity><quantity location="Владивосток">34</quantity>
 </offer>
 <offer id='"00117603"' available="true">
 <name>Переключатель трехпозиционный ON-OFF-ON 12 В/16А 5Р с подсветкой</name><price>430</price><currencyId>RUR</currencyId>
@@ -172518,23 +172486,12 @@ OFF - &quot;выключен&quot;. Тип: без фиксации. Вес: 14,
 <offer id='"00201648"' available="true">
 <name>Электропривод стеклоочистителя 12 В (ось 2.5), SeaFlo</name><price>7316</price><currencyId>RUR</currencyId>
 <categoryId>209</categoryId>
-<picture>https://wsrv.nl/?url=https%3A%2F%2Fimages.1000size.ru%2Fuploads%2Fimages%2Fitems%2Fmax%2Felektroprivod-stekloochistitelya-12-v-os-2-5-seaflo_899968_3892699715.jpg&amp;w=1200&amp;h=1200&amp;fit=contain&amp;bg=white&amp;output=jpg&amp;q=90</picture>
+<picture>https://avatars.mds.yandex.net/get-yastore/20341920/9lc56h5pzxckdcdtwc47c2f8mpq7jpnj/orig</picture>
 <vendor>SeaFlo</vendor>
 <model>&quot;00201648&quot;</model>
-<description>Электропривод стеклоочистителя 12 В (ось 2.5&quot;), SeaFlo. Диаметр оси: 6. Бренд: SeaFlo. Производитель: SeaFlo. Страна производителя: Китай. Страна производства: Китай. Рабочее напряжение, DC: 12. Крутящий момент: 5. Вес: 680 г</description>
+<description>Электропривод стеклоочистителя 12 В (ось 2.5&quot;), SeaFlo. Диаметр оси: 6. Бренд: SeaFlo. Производитель: SeaFlo. Страна производителя: Китай. Страна производства: Китай. Рабочее напряжение, DC: 12. Крутящий момент: 5. Вес: 3000 г</description>
 <param name="articul">&quot;00201648&quot;</param>
-<param name="picture">https://images.1000size.ru/uploads/images/items/max/elektroprivod-stekloochistitelya-12-v-os-2-5-seaflo_899968_2519541029.jpg</param>
-<param name="Диаметр оси" group="Размеры и вес">6</param>
-<param name="Бренд" group="Информация о производителе">SeaFlo</param>
-<param name="Производитель" group="Информация о производителе">SeaFlo</param>
-<param name="Страна производителя" group="Информация о производителе">Китай</param>
-<param name="Страна производства" group="Информация о производителе">Китай</param>
-<param name="Ток максимальный" group="Характеристики">1.2</param>
-<param name="Рабочее напряжение, DC" group="Характеристики">12</param>
-<param name="Угол настраиваемый" group="Характеристики">90/110°</param>
-<param name="Крутящий момент" group="Характеристики">5</param>
-<param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/elektroprivod-stekloochistitelya-12-v-os-2-5-seaflo-00201648.html</param>
-<quantity location="Основной склад">0</quantity><quantity location="Владивосток">8</quantity>
+<quantity location="Основной склад">0</quantity><quantity location="Владивосток">0</quantity>
 </offer>
 <offer id='"00197699"' available="true">
 <name>Электропривод стеклоочистителя 12 В (ось 1) Marine Rocket</name><price>5497</price><currencyId>RUR</currencyId>
@@ -173145,7 +173102,7 @@ OFF - &quot;выключен&quot;. Тип: без фиксации. Вес: 14,
 <param name="Бренд" group="Информация о производителе">Marine Rocket</param>
 <param name="Страна производителя" group="Информация о производителе">Китай</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/ruchka-palubnaya-potaynaya-99h20mm-marine-rocket-00199926.html</param>
-<quantity location="Основной склад">40</quantity><quantity location="Владивосток">8</quantity>
+<quantity location="Основной склад">39</quantity><quantity location="Владивосток">8</quantity>
 </offer>
 <offer id='"00199766"' available="true">
 <name>Ручка для люка врезная, утапливаемая, черная, 38мм</name><price>278</price><currencyId>RUR</currencyId>
@@ -174144,7 +174101,7 @@ OFF - &quot;выключен&quot;. Тип: без фиксации. Вес: 14,
 <param name="Замок с ключом" group="Характеристики">нет</param>
 <param name="Кол-во в зав.упаковке" group="Характеристики">10</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/lyuchek-palubnyy-136-mm-belyy-bayonetnyy-tip-00178208.html</param>
-<quantity location="Основной склад">30</quantity><quantity location="Владивосток">29</quantity>
+<quantity location="Основной склад">28</quantity><quantity location="Владивосток">29</quantity>
 </offer>
 <offer id='"00176285"' available="true">
 <name>Лючок палубный 190 мм, черный</name><price>2669</price><currencyId>RUR</currencyId>
@@ -174990,7 +174947,7 @@ OFF - &quot;выключен&quot;. Тип: без фиксации. Вес: 14,
 <param name="Бренд" group="Информация о производителе">Marine Rocket</param>
 <param name="Страна производителя" group="Информация о производителе">Китай</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/vertlyug-rym-skoba-10-mm-00195854.html</param>
-<quantity location="Основной склад">4</quantity><quantity location="Владивосток">10</quantity>
+<quantity location="Основной склад">3</quantity><quantity location="Владивосток">10</quantity>
 </offer>
 <offer id='"00195853"' available="true">
 <name>Вертлюг рым/рым 8 мм Marine Rocket</name><price>504</price><currencyId>RUR</currencyId>
@@ -177109,7 +177066,7 @@ OFF - &quot;выключен&quot;. Тип: без фиксации. Вес: 14,
 <param name="Бренд" group="Информация о производителе">Marine Rocket</param>
 <param name="Кол-во в зав.упаковке" group="Характеристики">1</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/kronshteyn-palubnyy-90-grad-s-vintovym-shtiftom-rovnoe-osnovanie-marine-rocket-00183930.html</param>
-<quantity location="Основной склад">52</quantity><quantity location="Владивосток">44</quantity>
+<quantity location="Основной склад">48</quantity><quantity location="Владивосток">44</quantity>
 </offer>
 <offer id='"00183929"' available="true">
 <name>Кронштейн скользящий для рамы тента 1 (25,4 мм), Marine Rocket</name><price>507</price><currencyId>RUR</currencyId>
@@ -177293,7 +177250,7 @@ OFF - &quot;выключен&quot;. Тип: без фиксации. Вес: 14,
 (аналог 08Х18Н10) и AISI 430 (улучшенный аналог стали 08Х17) Сталь AISI 304 является немагнитной аустенитный класс), AISI 430 – магнитной (ферритный класс).</param>
 <param name="Кол-во в зав.упаковке" group="Характеристики">1</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/nakonechnik-dlya-ramy-tenta-nerzhaveyuschaya-stal-22-2-mm-7-8-00174006.html</param>
-<quantity location="Основной склад">494</quantity><quantity location="Владивосток">188</quantity>
+<quantity location="Основной склад">490</quantity><quantity location="Владивосток">188</quantity>
 </offer>
 <offer id='"00150386"' available="true">
 <name>Наконечник рамы тента для трубы с внутренним диаметром 19 мм, пластиковый черный</name><price>42</price><currencyId>RUR</currencyId>
@@ -177876,7 +177833,7 @@ OFF - &quot;выключен&quot;. Тип: без фиксации. Вес: 14,
 <param name="Тип/аналог" group="Характеристики">реечный</param>
 <param name="Кол-во в зав.упаковке" group="Характеристики">1</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/tros-rulevogo-upravleniya-s-reechnoy-peredachey-14-futov-4-27-m-00129406.html</param>
-<quantity location="Основной склад">0</quantity><quantity location="Владивосток">2</quantity>
+<quantity location="Основной склад">1</quantity><quantity location="Владивосток">2</quantity>
 </offer>
 <offer id='"00093929"' available="true">
 <name>Трос рулевого управления 9 футов (2,74 м), нержавеющий, аналог М66</name><price>9278</price><currencyId>RUR</currencyId>
@@ -180260,7 +180217,7 @@ Evinrude: от 65 до 300 л.с.</param>
 <offer id='"00182025"' available="true">
 <name>Гидравлическая система рулевого управления до 350 л.с Sea First</name><price>90217</price><currencyId>RUR</currencyId>
 <categoryId>518</categoryId>
-<picture>https://wsrv.nl/?url=https%3A%2F%2Fimages.1000size.ru%2Fuploads%2Fimages%2Fitems%2Fmax%2Fgidravlicheskaya-sistema-rulevogo-upravleniya-do-300-l-s-sea-first_640417_3275979640.jpg&amp;w=1200&amp;h=1200&amp;fit=contain&amp;bg=white&amp;output=jpg&amp;q=90</picture>
+<picture>https://avatars.mds.yandex.net/get-yastore/20341920/nj2b66clfmjfgq98b5wc2nwq6fstln5n/orig</picture>
 <vendor>Sea First</vendor>
 <model>&quot;00182025&quot;</model>
 <description>Гидравлическая система рулевого управления до 350 л.с Sea First. Примечание: Не рекомендуется смешивать масла разных типов и характеристик при доливке или замене масла в системе ГСУ. Применимость: 4-такта Yamaha: от 75 до 350 л.с.
@@ -180279,43 +180236,7 @@ Evinrude: от 65 до 300 л.с.</param>
 Установочный комплект насоса и монтажное оборудование в комплекте.
 Дополнительные порты для подключения второго поста или гидроусилителя на насосе. С регулировкой наклона руля: Нет. Вес: 13140 г</description>
 <param name="articul">&quot;00182025&quot;</param>
-<param name="Примечание" group="Примечание">Не рекомендуется смешивать масла разных типов и характеристик при доливке или замене масла в системе ГСУ</param>
-<param name="Применимость" group="Применимость">4-такта Yamaha: от 75 до 350 л.с.
-2-такта Yamaha: 50 л.с., 60 л.с. и от 100 л.с. до 250 л.с.
-4-такта Suzuki: от 70 л.с. до 300 л.с.</param>
-<param name="Перечень комплекта" group="Перечень комплекта">Рулевая помпа NSH 030 - 1 шт,
-Цилиндр гидравлический SOC 3520V-Y1 - 1 шт,
-Гидравлический шланг 3/8, 7 метров х 2 шт,
-Фитинги, 
-Комплект крепежа для помпы Helm,
-Комплект принадлежностей OAK-300 (выпускная труба, воронка, трубка подачи масла),
-Масло SF OIL 15 1л х 2 шт. 
-
-Рулевое колесо в комплект не входит.</param>
-<param name="Длина хода" group="Характеристики">203</param>
-<param name="Кол-во оборотов" group="Характеристики">4.4</param>
-<param name="Модель" group="Характеристики">MO350V</param>
-<param name="Объём цилиндра" group="Характеристики">132</param>
-<param name="Модель гидронасоса" group="Характеристики">NSH030</param>
-<param name="Модель гидроцилиндра" group="Характеристики">SOC3520V-Y1</param>
-<param name="Производительность насоса" group="Характеристики">30</param>
-<param name="Гарантия производителя" group="Гарантия производителя">3 года</param>
-<param name="Для моторов" group="Характеристики">от 50 до 350</param>
-<param name="Бренд" group="Информация о производителе">Sea First</param>
-<param name="Производитель" group="Информация о производителе">Sea First</param>
-<param name="Страна" group="Информация о производителе">Корея</param>
-<param name="Диаметр рулевого колеса" group="Характеристики">до 400</param>
-<param name="Усилие гидроцилиндра" group="Характеристики">454</param>
-<param name="Кол-во в зав. упаковке" group="Характеристики">1</param>
-<param name="Вязкость масла" group="Характеристики">SF OIL 15</param>
-<param name="Отличительные особенности" group="Примечание">Рулевой насос с запорным клапаном, который исключает обратную связь и фиксирует подвесной мотор в заданном положении.
-Три опорных подшипника, что позволяет использовать в тяжелых условиях эксплантации.
-Вал рулевого колеса из нержавеющей стали (AISI 304).
-Установочный комплект насоса и монтажное оборудование в комплекте.
-Дополнительные порты для подключения второго поста или гидроусилителя на насосе.</param>
-<param name="С регулировкой наклона руля" group="Характеристики">Нет</param>
-<param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/gidravlicheskaya-sistema-rulevogo-upravleniya-do-300-l-s-sea-first-00182025.html</param>
-<quantity location="Основной склад">0</quantity><quantity location="Владивосток">1</quantity>
+<quantity location="Основной склад">0</quantity><quantity location="Владивосток">0</quantity>
 </offer>
 <offer id='"00182024"' available="true">
 <name>Гидравлическая система рулевого управления для 2-моторов 200-400 л.с Sea First</name><price>215375</price><currencyId>RUR</currencyId>
@@ -180927,7 +180848,7 @@ Evinrude: от 65 до 150 л.с.</param>
 Дополнительные порты для подключения второго поста или гидроусилителя на насосе.</param>
 <param name="С регулировкой наклона руля" group="Характеристики">Нет</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/gidravlicheskaya-sistema-rulevogo-upravleniya-do-150-l-s-44-3-8-sea-first-00174192.html</param>
-<quantity location="Основной склад">0</quantity><quantity location="Владивосток">8</quantity>
+<quantity location="Основной склад">0</quantity><quantity location="Владивосток">7</quantity>
 </offer>
 <offer id='"00173011"' available="true">
 <name>Гидравлическая система рулевого управления для Alpha/Bravo (Non-Power Assist), Sea First</name><price>88108</price><currencyId>RUR</currencyId>
@@ -181578,7 +181499,7 @@ Mercury: от 30 до 90 л.с.
 <param name="Кол-во в зав.упаковке" group="Характеристики">1</param>
 <param name="Тип тросов" group="Характеристики">M66</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/reduktor-rulevoy-zts-nevozvratnyy-s-ustanovochnym-komplektom-90-grad-00064312.html</param>
-<quantity location="Основной склад">0</quantity><quantity location="Владивосток">61</quantity>
+<quantity location="Основной склад">0</quantity><quantity location="Владивосток">59</quantity>
 </offer>
 <offer id='"00064311"' available="true">
 <name>Редуктор рулевой 3000 планетарный с установочным комплектом 90 град.</name><price>7434</price><currencyId>RUR</currencyId>
@@ -181791,7 +181712,7 @@ Mercury: от 30 до 90 л.с.
 <param name="Фонарь" group="Характеристики">есть</param>
 <param name="Подходит для:" group="Применимость">Надувных Лодок; Надувных Аттракционов; Sup- Досок; Надувных Палаток</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/nasos-elektricheskiy-akkumulyatornyy-vysokogo-davleniya-4000mah-22psi-marine-rocket-00201008.html</param>
-<quantity location="Основной склад">0</quantity><quantity location="Владивосток">99</quantity>
+<quantity location="Основной склад">0</quantity><quantity location="Владивосток">100</quantity>
 </offer>
 <offer id='"00200168"' available="true">
 <name>Насос электрический высокого давления 60Psi</name><price>5435</price><currencyId>RUR</currencyId>
@@ -183663,7 +183584,7 @@ Yamaha: 91490-30030, 9149030030</param>
 <param name="Каталожный номер" group="Номера в каталоге">914904003000
 91490-40030-00</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/shplint-fiksacii-gayki-grebnogo-vinta-yamaha-25-350-omax-00156688.html</param>
-<quantity location="Основной склад">5</quantity><quantity location="Владивосток">10</quantity>
+<quantity location="Основной склад">0</quantity><quantity location="Владивосток">10</quantity>
 </offer>
 <offer id='"00156686"' available="true">
 <name>Шплинт фиксации гайки гребного винта Yamaha, Omax</name><price>97</price><currencyId>RUR</currencyId>
@@ -184682,7 +184603,7 @@ GPS-антенна с кабелем 10 м (разъем SMA)
 <param name="Рабочее напряжение, DC" group="Характеристики">12</param>
 <param name="Кол-во в зав.упаковке" group="Характеристики">1</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/komplekt-pomyvochnyy-seaflo-12-v-19-7-l-min-70-psi-4-8-bar-00002838.html</param>
-<quantity location="Основной склад">1</quantity><quantity location="Владивосток">43</quantity>
+<quantity location="Основной склад">0</quantity><quantity location="Владивосток">43</quantity>
 </offer>
 <offer id='"00202653"' available="true">
 <name>Помпа осушительная 12 В, 800GPH (3028 л/час) автоматическая, SeaFlo</name><price>6024</price><currencyId>RUR</currencyId>
@@ -184791,7 +184712,7 @@ GPS-антенна с кабелем 10 м (разъем SMA)
 <param name="Рабочее напряжение, DC" group="Характеристики">12</param>
 <param name="Кол-во в зав.упаковке" group="Характеристики">1</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/pompa-osushitelnaya-12-v-1100gph-4163-5-l-chas-avtomaticheskaya-seaflo-00173820.html</param>
-<quantity location="Основной склад">0</quantity><quantity location="Владивосток">35</quantity>
+<quantity location="Основной склад">0</quantity><quantity location="Владивосток">34</quantity>
 </offer>
 <offer id='"11252180"' available="true">
 <name>Помпа ручная, 720GPH (2725,5 л/час), SeaFlo</name><price>1912</price><currencyId>RUR</currencyId>
@@ -185236,7 +185157,7 @@ GPS-антенна с кабелем 10 м (разъем SMA)
 17461-97J1</param>
 <param name="Диаметр внешний" group="Характеристики">33.20</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/krylchatka-ohlazhdeniya-suzuki-df2-5-omax-00146153.html</param>
-<quantity location="Основной склад">21</quantity><quantity location="Владивосток">10</quantity>
+<quantity location="Основной склад">20</quantity><quantity location="Владивосток">10</quantity>
 </offer>
 <offer id='"00146152"' available="true">
 <name>Крыльчатка охлаждения Suzuki DT25/30, Omax</name><price>564</price><currencyId>RUR</currencyId>
@@ -186754,7 +186675,7 @@ MR01061147</param>
 <param name="Производитель" group="Информация о производителе">ИП Смирнова</param>
 <param name="Страна производителя" group="Информация о производителе">Россия</param>
 <param name="Кол-во в зав.упаковке" group="Характеристики">12</param>
-<quantity location="Основной склад">3</quantity><quantity location="Владивосток">11</quantity>
+<quantity location="Основной склад">2</quantity><quantity location="Владивосток">11</quantity>
 </offer>
 <offer id='"00142644"' available="true">
 <name>Якорная намотка d 6 мм, L 30 м</name><price>574</price><currencyId>RUR</currencyId>
@@ -187015,7 +186936,7 @@ Honda: 15400-PFB-007, 15400-PFB-014, 15400-PFRB-007, 15400-PJ7-015, 15400-PM3-00
 369-02230-0</param>
 <param name="Кол-во в зав. упаковке" group="Характеристики">1</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/filtr-toplivnyy-tohatsu-m5b-8b-9-8b-mfs4-30-omax-00156741.html</param>
-<quantity location="Основной склад">25</quantity><quantity location="Владивосток">10</quantity>
+<quantity location="Основной склад">24</quantity><quantity location="Владивосток">10</quantity>
 </offer>
 <offer id='"11595136"' available="true">
 <name>Фильтр топливного насоса Honda BF75-200, Recmar</name><price>673</price><currencyId>RUR</currencyId>
@@ -187439,7 +187360,7 @@ Yamaha: 61N-24563-00, 61N-24563-10, 61N-24563-10-00, 61N-2456310-00, 61N2456300,
 <param name="Производитель" group="Информация о производителе">Youthful</param>
 <param name="Страна производителя" group="Информация о производителе">Тайвань</param>
 <param name="Кол-во в зав.упаковке" group="Характеристики">1</param>
-<quantity location="Основной склад">137</quantity><quantity location="Владивосток">105</quantity>
+<quantity location="Основной склад">117</quantity><quantity location="Владивосток">105</quantity>
 </offer>
 <offer id='"00006144"' available="true">
 <name>Решетка воздухозаборника 127х115х0.8 мм</name><price>412</price><currencyId>RUR</currencyId>
@@ -189233,7 +189154,7 @@ Yamaha: 61N-24563-00, 61N-24563-10, 61N-24563-10-00, 61N-2456310-00, 61N2456300,
 <param name="Страна производителя" group="Информация о производителе">Тайвань</param>
 <param name="Кол-во в зав.упаковке" group="Характеристики">6</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/toplivnyy-perehodnik-elochka-3-8-dlya-montazha-skvoz-pereborku-00110734.html</param>
-<quantity location="Основной склад">202</quantity><quantity location="Владивосток">224</quantity>
+<quantity location="Основной склад">201</quantity><quantity location="Владивосток">224</quantity>
 </offer>
 <offer id='"00015286"' available="true">
 <name>Т-образный переходник под резьбу 1/4 NPT</name><price>588</price><currencyId>RUR</currencyId>
@@ -189523,32 +189444,12 @@ Yamaha: 61N-24563-00, 61N-24563-10, 61N-24563-10-00, 61N-2456310-00, 61N2456300,
 <offer id='"00175701"' available="true">
 <name>Бойлер 30L, 500W, 220V, Quick</name><price>75469</price><currencyId>RUR</currencyId>
 <categoryId>534</categoryId>
-<picture>https://wsrv.nl/?url=https%3A%2F%2Fimages.1000size.ru%2Fuploads%2Fimages%2Fitems%2Fmax%2Fboyler-30l-500w-220v-quick_687288.jpg&amp;w=1200&amp;h=1200&amp;fit=contain&amp;bg=white&amp;output=jpg&amp;q=90</picture>
+<picture>https://avatars.mds.yandex.net/get-yastore/19393785/hld4l6d2szb2txrsl6sglkklswwwjgwg/orig</picture>
 <vendor>Quick</vendor>
 <model>&quot;00175701&quot;</model>
 <description>Бойлер 30L, 500W, 220V, Quick. Напряжение сети: 220. Мощность нагрева: 500. Высота: 495. Диаметр: 360. Размеры: 495х381х360. Вес: 10.5 кг. Глубина: 381. Диапазон рабочих температур: 40-80. Бренд: Quick. Производитель: Quick. Страна производителя: Италия. Полный объём: 30. Материал бака: нержавеющая сталь. Теплоизоляция: пенополиуретан. Внешний корпус: композит. Рабочее давление, макс.: 6. Диаметр фитингов: 1/2&quot;. Кол-во в зав. упаковке: 1. Вес: 10520 г</description>
 <param name="articul">&quot;00175701&quot;</param>
-<param name="picture">https://images.1000size.ru/uploads/images/items/max/boyler-30l-500w-220v-quick_571795_3587164295.jpg</param>
-<param name="Напряжение сети" group="Характеристики">220</param>
-<param name="Мощность нагрева" group="Характеристики">500</param>
-<param name="Высота" group="Размеры и вес">495</param>
-<param name="Диаметр" group="Размеры и вес">360</param>
-<param name="Размеры" group="Размеры и вес">495х381х360</param>
-<param name="Вес" group="Размеры и вес">10.5 кг</param>
-<param name="Глубина" group="Размеры и вес">381</param>
-<param name="Диапазон рабочих температур" group="Характеристики">40-80</param>
-<param name="Бренд" group="Информация о производителе">Quick</param>
-<param name="Производитель" group="Информация о производителе">Quick</param>
-<param name="Страна производителя" group="Информация о производителе">Италия</param>
-<param name="Полный объём" group="Характеристики">30</param>
-<param name="Материал бака" group="Характеристики">нержавеющая сталь</param>
-<param name="Теплоизоляция" group="Характеристики">пенополиуретан</param>
-<param name="Внешний корпус" group="Характеристики">композит</param>
-<param name="Рабочее давление, макс." group="Характеристики">6</param>
-<param name="Диаметр фитингов" group="Характеристики">1/2&quot;</param>
-<param name="Кол-во в зав. упаковке" group="Характеристики">1</param>
-<param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/boyler-30l-500w-220v-quick-00175701.html</param>
-<quantity location="Основной склад">0</quantity><quantity location="Владивосток">1</quantity>
+<quantity location="Основной склад">0</quantity><quantity location="Владивосток">0</quantity>
 </offer>
 <offer id='"00185155"' available="true">
 <name>Лебедка для прицепа 1400 lbs (635 кг)</name><price>4530</price><currencyId>RUR</currencyId>
@@ -192694,7 +192595,7 @@ MAR-24563-03-00</param>
 <param name="Страна производителя" group="Информация о производителе">Тайвань</param>
 <param name="Кол-во в зав.упаковке" group="Характеристики">50</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/uplotnitel-dlya-trosov-upravleniya-reguliruemyy-chernyy-00164775.html</param>
-<quantity location="Основной склад">69</quantity><quantity location="Владивосток">0</quantity>
+<quantity location="Основной склад">67</quantity><quantity location="Владивосток">0</quantity>
 </offer>
 <offer id='"00087759"' available="true">
 <name>Уплотнитель для тросов управления черный, д. 152 мм</name><price>1183</price><currencyId>RUR</currencyId>
@@ -193821,7 +193722,7 @@ MR20FH</param>
 Внимательно относитесь к выбору материала анодной защиты, обязательно учитывайте местные условия эксплуатации.
 
 Никогда не закрашивайте защитные аноды!</param>
-<quantity location="Основной склад">1</quantity><quantity location="Владивосток">14</quantity>
+<quantity location="Основной склад">1</quantity><quantity location="Владивосток">13</quantity>
 </offer>
 <offer id='"11631221"' available="true">
 <name>Анод Suzuki</name><price>1534</price><currencyId>RUR</currencyId>
@@ -195102,7 +195003,7 @@ Yamaha: 697-44352-00, 6974435200, 697443520000, 6H3-44352-00, 6H3-44352-00-00, 6
 <param name="Длина в бухте" group="Характеристики">50</param>
 <param name="Кол-во в зав.упаковке" group="Характеристики">1</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/profil-okantovochnyy-chernyy-4-6-mm-00182822.html</param>
-<quantity location="Основной склад">58</quantity><quantity location="Владивосток">20</quantity>
+<quantity location="Основной склад">58</quantity><quantity location="Владивосток">17</quantity>
 </offer>
 <offer id='"00182821"' available="true">
 <name>Профиль окантовочный, черный, 1,5-4 мм</name><price>404</price><currencyId>RUR</currencyId>
@@ -195530,7 +195431,7 @@ Yamaha: 697-44352-00, 6974435200, 697443520000, 6H3-44352-00, 6H3-44352-00-00, 6
 <param name="Производитель" group="Информация о производителе">Scandinavian</param>
 <param name="Страна производителя" group="Информация о производителе">Китай</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/daunrigger-mehanicheskiy-ec-100-00198725.html</param>
-<quantity location="Основной склад">0</quantity><quantity location="Владивосток">45</quantity>
+<quantity location="Основной склад">0</quantity><quantity location="Владивосток">43</quantity>
 </offer>
 <offer id='"00127606"' available="true">
 <name>Счётчик троса для даунриггера CFDR (на замену)</name><price>188</price><currencyId>RUR</currencyId>
@@ -197669,7 +197570,7 @@ Yamaha: 697-44352-00, 6974435200, 697443520000, 6H3-44352-00, 6H3-44352-00-00, 6
 <param name="Напряжение макс., DC" group="Характеристики">до 24</param>
 <param name="Режим AFD" group="Характеристики">нет</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/vyklyuchatel-massy-heavy-duty-sudovoy-vreznogo-montazha-chernyy-00178258.html</param>
-<quantity location="Основной склад">13</quantity><quantity location="Владивосток">0</quantity>
+<quantity location="Основной склад">11</quantity><quantity location="Владивосток">0</quantity>
 </offer>
 <offer id='"00178206"' available="true">
 <name>Выключатель массы Heavy Duty OFF-ON (1 АКБ) 180А</name><price>1710</price><currencyId>RUR</currencyId>
@@ -198105,7 +198006,7 @@ Yamaha: 697-44352-00, 6974435200, 697443520000, 6H3-44352-00, 6H3-44352-00-00, 6
 <param name="Длина в бухте" group="Характеристики">50</param>
 <param name="Кол-во в зав.упаковке" group="Характеристики">1</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/shlang-toplivnyy-d10-d14-mm-00179528.html</param>
-<quantity location="Основной склад">250</quantity><quantity location="Владивосток">260</quantity>
+<quantity location="Основной склад">250</quantity><quantity location="Владивосток">210</quantity>
 </offer>
 <offer id='"00179527"' available="true">
 <name>Шланг топливный d6/D12 мм</name><price>247</price><currencyId>RUR</currencyId>
@@ -198686,7 +198587,7 @@ Yamaha: 697-44352-00, 6974435200, 697443520000, 6H3-44352-00, 6H3-44352-00-00, 6
 <param name="Диаметр ниппеля" group="Характеристики">13</param>
 <param name="Кол-во в зав.упаковке" group="Характеристики">20</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/shtucer-toplivnyy-v-bak-suzuki-adapter-metall-od-13mm-sovmestim-s-c14535-29515.html</param>
-<quantity location="Основной склад">79</quantity><quantity location="Владивосток">65</quantity>
+<quantity location="Основной склад">59</quantity><quantity location="Владивосток">65</quantity>
 </offer>
 <offer id='"27878"' available="true">
 <name>Переходник топливный Yamaha (коннектор;пластик;ID:8.5mm;3/8), совместим с C14510</name><price>378</price><currencyId>RUR</currencyId>
@@ -198841,6 +198742,7 @@ Yamaha: 697-44352-00, 6974435200, 697443520000, 6H3-44352-00, 6H3-44352-00-00, 6
 <param name="Габариты в упаковке" group="Характеристики">56х41х112</param>
 <param name="Объём бака" group="Характеристики">130</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/bak-toplivnyy-mobilnyy-s-zapravochnym-pistoletom-130-l-00202690.html</param>
+<param name="Длина топливного шланга" group="Характеристики">3</param>
 <quantity location="Основной склад">0</quantity><quantity location="Владивосток">3</quantity>
 </offer>
 <offer id='"00202147"' available="true">
@@ -199003,7 +198905,7 @@ Yamaha: 697-44352-00, 6974435200, 697443520000, 6H3-44352-00, 6H3-44352-00-00, 6
 <param name="Бренд" group="Информация о производителе">Yang-Xian</param>
 <param name="Производитель" group="Информация о производителе">Yang-Xian</param>
 <param name="Страна" group="Информация о производителе">Тайвань</param>
-<quantity location="Основной склад">16</quantity><quantity location="Владивосток">31</quantity>
+<quantity location="Основной склад">13</quantity><quantity location="Владивосток">31</quantity>
 </offer>
 <offer id='"00178811"' available="true">
 <name>Рычаг газа ДУ Y701, правый</name><price>520</price><currencyId>RUR</currencyId>
@@ -199016,7 +198918,7 @@ Yamaha: 697-44352-00, 6974435200, 697443520000, 6H3-44352-00, 6H3-44352-00-00, 6
 <param name="Бренд" group="Информация о производителе">Yang-Xian</param>
 <param name="Производитель" group="Информация о производителе">Yang-Xian</param>
 <param name="Страна" group="Информация о производителе">Тайвань</param>
-<quantity location="Основной склад">16</quantity><quantity location="Владивосток">42</quantity>
+<quantity location="Основной склад">13</quantity><quantity location="Владивосток">42</quantity>
 </offer>
 <offer id='"00129408"' available="true">
 <name>Трубка проходная для рулевого редуктора Pretech</name><price>205</price><currencyId>RUR</currencyId>
@@ -199611,7 +199513,7 @@ Yamaha: 697-44352-00, 6974435200, 697443520000, 6H3-44352-00, 6H3-44352-00-00, 6
 <param name="Страна производителя" group="Информация о производителе">Тайвань</param>
 <param name="Сторона установки" group="Характеристики">любая</param>
 <param name="Кол-во в зав.упаковке" group="Характеристики">10</param>
-<quantity location="Основной склад">2</quantity><quantity location="Владивосток">5</quantity>
+<quantity location="Основной склад">1</quantity><quantity location="Владивосток">5</quantity>
 </offer>
 <offer id='"00006255"' available="true">
 <name>Дистанционное управление двухрычажное</name><price>12844</price><currencyId>RUR</currencyId>
@@ -201031,7 +200933,7 @@ Mercury 9.9 и 15 л.с. (Yamaha) 8 шлицов
 <offer id='"00087088"' available="true">
 <name>Винт гребной Mercury 60-125;3x13-1/4x17, BaekSan</name><price>12167</price><currencyId>RUR</currencyId>
 <categoryId>26</categoryId>
-<picture>https://wsrv.nl/?url=https%3A%2F%2Fimages.1000size.ru%2Fuploads%2Fimages%2Fitems%2Fmax%2Fvint-grebnoy-mercury-60-125-3x13-1-4x17-baeksan_642522.jpg&amp;w=1200&amp;h=1200&amp;fit=contain&amp;bg=white&amp;output=jpg&amp;q=90</picture>
+<picture>https://avatars.mds.yandex.net/get-yastore/18145482/5wr6vmnzt46tnsv7ztc5k6nw5kgxskvj/orig</picture>
 <vendor>BaekSan</vendor>
 <model>&quot;00087088&quot;</model>
 <description>Винт гребной Mercury 60-125;3x13-1/4x17, BaekSan. Примечание: При подборе гребного винта, помимо шага и диаметра самого винта, особое внимание стоит уделить диаметру ступицы и количеству шлицов. Применимость: Лодочный мотор Mercury (40-140 л.с.) 
@@ -201069,67 +200971,7 @@ Mercury 9.9 и 15 л.с. (Yamaha) 8 шлицов
 Пример:
 Гребной винт с шагом 500 мм (20 дюймов) при каждом полном обороте должен был бы передвигать судно на 0,5 м при условии отсутствия скольжения (то есть если бы винт ввинчивался в воду, как в твердую среду). Но поскольку винт отбрасывает воду назад, истинное перемещение судна будет меньше. Вес: 3590 г</description>
 <param name="articul">&quot;00087088&quot;</param>
-<param name="picture">https://images.1000size.ru/uploads/images/items/max/vint-grebnoy-mercury-60-125-3x13-1-4x17-baeksan_5249.jpg</param>
-<param name="picture">https://images.1000size.ru/uploads/images/items/max/vint-grebnoy-mercury-60-125-3x13-1-4x17-baeksan_114039_1711659960.jpg</param>
-<param name="picture">https://images.1000size.ru/uploads/images/items/max/vint-grebnoy-mercury-60-125-3x13-1-4x17-baeksan_642527.jpg</param>
-<param name="Примечание" group="Примечание">При подборе гребного винта, помимо шага и диаметра самого винта, особое внимание стоит уделить диаметру ступицы и количеству шлицов.</param>
-<param name="Применимость" group="Применимость">Лодочный мотор Mercury (40-140 л.с.) 
-- 40-50 л.с. (Bigfoot 4-x тактный) любой год.
-- 60 л.с.  (Bigfoot/Sea Pro 2-х тактные) с 1995 и новее.
-- 70 л.с. 1987-1989. 
-- 75 л.с. (2 и 4-x тактный) 1984 и новее. 
-- 80 л.с. 1978-1989. 
-- 90 л.с. (2 и 4-x тактный) 1978 и новее. 
-- 100 л.с. 1988 и новее. 
-- 115 л.с. 1978 и новее. 
-- 115 л.с. (4-x тактный) 2001 и новее. 
-- 125 л.с. 1994 и новее. 
-- 140 л.с. 1978-1981. 
-- 650 (4 цилиндра) 1961-1970. 
-- 650 (2 цилиндра) по 1971. 
-- 800, 850 (6 цилиндров) по 1972. 
-- 800, 850 (4 цилиндров) 1972-1977. 
-- 900 и 1500 по 1977. 
-- Выхлоп в ступицу,15 шлицов на валу.</param>
-<param name="Материал" group="Характеристики">алюминий</param>
-<param name="Количество шлицов" group="Характеристики">15</param>
-<param name="Вращение" group="Характеристики">правое</param>
-<param name="Упаковка" group="Характеристики">360х360х190</param>
-<param name="Диаметр" group="Характеристики">13.25</param>
-<param name="Посадка на вал" group="Характеристики">шлицевая</param>
-<param name="Шаг" group="Характеристики">17</param>
-<param name="Лопасти" group="Характеристики">3</param>
-<param name="Кол-во в упаковке" group="Характеристики">6</param>
-<param name="Номера в каталоге" group="Номера в каталоге">48-77344A45</param>
-<param name="Параметры (ЛхДхШ), мм" group="Характеристики">3х337х432</param>
-<param name="Параметры (ЛхДхШ)" group="Характеристики">3х337х432</param>
-<param name="Параметры (ЛxДxШ)" group="Характеристики">3х13-1/4х17</param>
-<param name="Бренд" group="Информация о производителе">BaekSan</param>
-<param name="Производитель" group="Информация о производителе">BaekSan</param>
-<param name="Страна производителя" group="Информация о производителе">Корея</param>
-<param name="Ступица винта" group="Характеристики">Ø 101 мм</param>
-<param name="Съёмная втулка винта" group="Характеристики">да</param>
-<param name="Моторы" group="Применимость">60 - 140 л.с. (15 шл.)</param>
-<param name="Кол-во в зав.упаковке" group="Характеристики">6</param>
-<param name="Как проверить, насколько правильно подобран винт к катеру?" group="Как проверить, насколько правильно подобран винт к катеру?">Нужно замерить обороты в «полный газ» с максимальной и минимальной загрузкой. Обороты должны находиться в пределах, рекомендованных изготовителем. Если мотор «не докручивает» обороты – поставьте винт с меньшим шагом, если мотор «перекручивает», то есть превышение оборотов – то шаг требуется увеличить.
-
-Важные параметры:
-
-- Трёх или четырёх лопастной винт
-3-х лопастной гребной винт имеет меньшее сопротивление и более высокий коэффициент полезного действия, однако на 3-х лопастных винтах раньше возникает кавитация. 4-х лопастной гребной винт при том же диаметре позволяет переработать большую мощность и снизить вибрацию.
-Также 4-х лопастной винт уменьшает время выхода на глиссирование и даже может экономить топливо при движении на крейсерском ходе. Однако при небольших мощностях максимально достигаемая скорость судна с 4-х лопастным винтом меньше по сравнению с 3-х лопастным винтом того же диаметра и шага.
-
-- Диаметр
-Диаметр гребного винта - это диаметр окружности, охватывающей все лопасти винта. Обычно чем меньше обороты гребного вала, тем больше должен быть диаметр.
-Правильный выбор диаметра винта очень важен для взаимодействия гребного винта и судна. Как правило, для относительно тихоходных судов используют винт с бо́льшим диаметром, для скоростных судов - с меньшим.
-
-- Шаг
-Шаг гребного винта - это его важнейшая техническая характеристика. Шаг винта соответствует теоретическому расстоянию, на которое винт переместится за один полный оборот в недеформируемой среде.
-
-Пример:
-Гребной винт с шагом 500 мм (20 дюймов) при каждом полном обороте должен был бы передвигать судно на 0,5 м при условии отсутствия скольжения (то есть если бы винт ввинчивался в воду, как в твердую среду). Но поскольку винт отбрасывает воду назад, истинное перемещение судна будет меньше.</param>
-<param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/vint-grebnoy-mercury-60-125-3x13-1-4x17-baeksan-00087088.html</param>
-<quantity location="Основной склад">0</quantity><quantity location="Владивосток">1</quantity>
+<quantity location="Основной склад">0</quantity><quantity location="Владивосток">0</quantity>
 </offer>
 <offer id='"00080536"' available="true">
 <name>Винт гребной Mercury 60-125;3x14x10, BaekSan</name><price>12167</price><currencyId>RUR</currencyId>
@@ -202223,7 +202065,7 @@ Marine Rocket Prime обеспечивает уверенное качество
 Пример:
 Гребной винт с шагом 500 мм (20 дюймов) при каждом полном обороте должен был бы передвигать судно на 0,5 м при условии отсутствия скольжения (то есть если бы винт ввинчивался в воду, как в твердую среду). Но поскольку винт отбрасывает воду назад, истинное перемещение судна будет меньше.</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/grebnoy-vint-3x7-8x6-marine-rocket-prime-11649830.html</param>
-<quantity location="Основной склад">2</quantity><quantity location="Владивосток">5</quantity>
+<quantity location="Основной склад">1</quantity><quantity location="Владивосток">5</quantity>
 </offer>
 <offer id='"11614854"' available="true">
 <name>Гребной винт 3x9-1/4x11, Marine Rocket Prime</name><price>4165</price><currencyId>RUR</currencyId>
@@ -204929,7 +204771,7 @@ Marine Rocket Prime обеспечивает уверенное качество
 <offer id='"11648702"' available="true">
 <name>Гребной винт 3x12-5/8x21, Marine Rocket Prime</name><price>10221</price><currencyId>RUR</currencyId>
 <categoryId>27</categoryId>
-<picture>https://wsrv.nl/?url=https%3A%2F%2Fimages.1000size.ru%2Fuploads%2Fimages%2Fitems%2Fmax%2Fgrebnoy-vint-3x12-5-8x21-marine-rocket-prime_892432_2879599406.jpg&amp;w=1200&amp;h=1200&amp;fit=contain&amp;bg=white&amp;output=jpg&amp;q=90</picture>
+<picture>https://avatars.mds.yandex.net/get-yastore/20412565/r5c4hldwg7b5j568fj4np2cfw42tq6gs/orig</picture>
 <vendor>Marine Rocket Prime</vendor>
 <model>&quot;11648702&quot;</model>
 <description>Гребной винт 3x12-5/8x21, Marine Rocket Prime. Материал: алюминий. Количество шлицов: 15. Вращение: правое. Диаметр: 12.6. Посадка на вал: шлицевая. Шаг: 21. Лопасти: 3. Параметры (ЛxДxШ): 3х12-5/8х21. Бренд: Marine Rocket Prime. Страна производителя: Китай. Ступица винта: Ø 101 мм. Двухтактные моторы:: Yamaha: 60F; 70B; 75A; 75C; 85A; K50; 60F; E60; 70B; 80A; 90A; 85A; 90A; 115A; 115B; 115C; 130B; 140B; 140C
@@ -204965,64 +204807,9 @@ Marine Rocket Prime обеспечивает уверенное качество
 Шаг гребного винта - это его важнейшая техническая характеристика. Шаг винта соответствует теоретическому расстоянию, на которое винт переместится за один полный оборот в недеформируемой среде.
 
 Пример:
-Гребной винт с шагом 500 мм (20 дюймов) при каждом полном обороте должен был бы передвигать судно на 0,5 м при условии отсутствия скольжения (то есть если бы винт ввинчивался в воду, как в твердую среду). Но поскольку винт отбрасывает воду назад, истинное перемещение судна будет меньше. Вес: 3020 г</description>
+Гребной винт с шагом 500 мм (20 дюймов) при каждом полном обороте должен был бы передвигать судно на 0,5 м при условии отсутствия скольжения (то есть если бы винт ввинчивался в воду, как в твердую среду). Но поскольку винт отбрасывает воду назад, истинное перемещение судна будет меньше. Вес: 3000 г</description>
 <param name="articul">&quot;11648702&quot;</param>
-<param name="picture">https://images.1000size.ru/uploads/images/items/max/grebnoy-vint-3x12-5-8x21-marine-rocket-prime_892432_2902860678.jpg</param>
-<param name="picture">https://images.1000size.ru/uploads/images/items/max/grebnoy-vint-3x12-5-8x21-marine-rocket-prime_892432_1332793609.jpg</param>
-<param name="Материал" group="Характеристики">алюминий</param>
-<param name="Количество шлицов" group="Характеристики">15</param>
-<param name="Вращение" group="Характеристики">правое</param>
-<param name="Диаметр" group="Характеристики">12.6</param>
-<param name="Посадка на вал" group="Характеристики">шлицевая</param>
-<param name="Шаг" group="Характеристики">21</param>
-<param name="Лопасти" group="Характеристики">3</param>
-<param name="Параметры (ЛxДxШ)" group="Характеристики">3х12-5/8х21</param>
-<param name="Бренд" group="Информация о производителе">Marine Rocket Prime</param>
-<param name="Страна производителя" group="Информация о производителе">Китай</param>
-<param name="Ступица винта" group="Характеристики">Ø 101 мм</param>
-<param name="Двухтактные моторы:" group="Применимость двухтактные моторы:">Yamaha: 60F; 70B; 75A; 75C; 85A; K50; 60F; E60; 70B; 80A ; 90A; 85A; 90A; 115A; 115B; 115C; 130B; 140B; 140C
-Marine Rocket: MR60F; MR90F</param>
-<param name="Четырехтактные моторы:" group="Применимость четырехтактные моторы:">Yamaha: FT60; F80; F100; F90; F115
-Marine Rocket: MREF60FUE (2.33:1); MREF90F; MREF100F; MREF115F; MREF130F</param>
-<param name="Моторы" group="Применимость">60 - 140 л.с. (15 шл.)</param>
-<param name="Гребные винты Marine Rocket Prime" group="Гребные винты Marine Rocket Prime">Чтобы каждый момент водной прогулки был максимально комфортным и безопасным, лодочному мотору необходимо надёжное и эффективное оборудование.
-
-На помощь приходит линейка гребных винтов Marine Rocket Prime – премиальное решение для требовательных судовладельцев.
-
-Marine Rocket Prime – это передовые технологии и безупречное качество, разработанное для обеспечения максимальной производительности и долговечности вашего лодочного мотора.
-
-Продукция Marine Rocket Prime создана с использованием передовых технологий литья, полировки и покраски и проходит строгий контроль качества. Это гарантирует не только отличные эксплуатационные характеристики, но и презентабельный внешний вид.
-
-Marine Rocket Prime обеспечивает уверенное качество без необходимости излишней переплаты: идеальный выбор для требовательных и разумных покупателей.</param>
-<param name="Современные методы изготовления" group="Современные методы изготовления">Рентгеновская дефектоскопия, 3D-сканирование, испытания в камерах циклической коррозии.
-Тщательная проверка характеристик и качества каждого изделия.
-
-Высокоточная обработка изделий гарантирует оптимальное распределение массы и минимизацию вибраций, что способствует увеличению срока эксплуатации как самого винта, так и редуктора.</param>
-<param name="Высокая прочность и долговечность" group="Высокая прочность и долговечность">Благодаря применению передовых технологий литья под давлением, винты обладают практически нулевой пористостью, что обеспечивает их существенное преимущество перед традиционно литыми винтами.
-
-Отличаются повышенной устойчивостью к коррозионному воздействию благодаря использованию алюминиево-магниевого сплава.
-
-3 слоя краски, высококачественные покрытия и технологичный процесс покраски.</param>
-<param name="Испытание в соляном тумане" group="Испытание в соляном тумане">Более 500 часов тестирования, что эквивалентно 6+ месяцам эксплуатации в соленой воде.</param>
-<param name="Как проверить, насколько правильно подобран винт к катеру?" group="Как проверить, насколько правильно подобран винт к катеру?">Нужно замерить обороты в «полный газ» с максимальной и минимальной загрузкой. Обороты должны находиться в пределах, рекомендованных изготовителем. Если мотор «не докручивает» обороты – поставьте винт с меньшим шагом, если мотор «перекручивает», то есть превышение оборотов – то шаг требуется увеличить.
-
-Важные параметры:
-
-- Трёх или четырёх лопастной винт
-3-х лопастной гребной винт имеет меньшее сопротивление и более высокий коэффициент полезного действия, однако на 3-х лопастных винтах раньше возникает кавитация. 4-х лопастной гребной винт при том же диаметре позволяет переработать большую мощность и снизить вибрацию.
-Также 4-х лопастной винт уменьшает время выхода на глиссирование и даже может экономить топливо при движении на крейсерском ходе. Однако при небольших мощностях максимально достигаемая скорость судна с 4-х лопастным винтом меньше по сравнению с 3-х лопастным винтом того же диаметра и шага.
-
-- Диаметр
-Диаметр гребного винта - это диаметр окружности, охватывающей все лопасти винта. Обычно чем меньше обороты гребного вала, тем больше должен быть диаметр.
-Правильный выбор диаметра винта очень важен для взаимодействия гребного винта и судна. Как правило, для относительно тихоходных судов используют винт с бо́льшим диаметром, для скоростных судов - с меньшим.
-
-- Шаг
-Шаг гребного винта - это его важнейшая техническая характеристика. Шаг винта соответствует теоретическому расстоянию, на которое винт переместится за один полный оборот в недеформируемой среде.
-
-Пример:
-Гребной винт с шагом 500 мм (20 дюймов) при каждом полном обороте должен был бы передвигать судно на 0,5 м при условии отсутствия скольжения (то есть если бы винт ввинчивался в воду, как в твердую среду). Но поскольку винт отбрасывает воду назад, истинное перемещение судна будет меньше.</param>
-<param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/grebnoy-vint-3x12-5-8x21-marine-rocket-prime-11648702.html</param>
-<quantity location="Основной склад">1</quantity><quantity location="Владивосток">0</quantity>
+<quantity location="Основной склад">0</quantity><quantity location="Владивосток">0</quantity>
 </offer>
 <offer id='"11648664"' available="true">
 <name>Гребной винт 3x11,1x13, Marine Rocket Prime</name><price>18134</price><currencyId>RUR</currencyId>
@@ -212523,7 +212310,7 @@ THICK - толстые лопасти. Материал: алюминий. Ко�
 <param name="Страна производства" group="Информация о производителе">Китай</param>
 <param name="Кол-во в зав.упаковке" group="Характеристики">1</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/razem-vodosbrosa-plastikovyy-s-kryshkoy-iz-nerzhaveyuschey-stali-pod-shlang-19-mm-chernyy-00185168.html</param>
-<quantity location="Основной склад">11</quantity><quantity location="Владивосток">8</quantity>
+<quantity location="Основной склад">9</quantity><quantity location="Владивосток">8</quantity>
 </offer>
 <offer id='"00185167"' available="true">
 <name>Разъем водосброса пластиковый с крышкой из нержавеющей стали под шланг 16 мм, черный</name><price>496</price><currencyId>RUR</currencyId>
@@ -213104,7 +212891,7 @@ THICK - толстые лопасти. Материал: алюминий. Ко�
 <param name="Бренд" group="Информация о производителе">Easterner</param>
 <param name="Страна производителя" group="Информация о производителе">Тайвань</param>
 <param name="КУПИТЬ ДЕШЕВЛЕ" group="Выгодный вариант">&quot;ПЕРЕЙТИ НА ПРЕДЗАКАЗ&quot;:https://predzakaz.1000size.ru/gorlovina-zalivnaya-dlya-benzina-plastikovaya-chernaya-pod-shlang-50-mm-00201687.html</param>
-<quantity location="Основной склад">9</quantity><quantity location="Владивосток">21</quantity>
+<quantity location="Основной склад">8</quantity><quantity location="Владивосток">21</quantity>
 </offer>
 <offer id='"00195998"' available="true">
 <name>Горловина заливная для бензина 38 мм, ключ Marine Rocket</name><price>1953</price><currencyId>RUR</currencyId>
@@ -213468,7 +213255,7 @@ THICK - толстые лопасти. Материал: алюминий. Ко�
 <param name="Страна производителя" group="Информация о производителе">Тайвань</param>
 <param name="Толщина переборки макс." group="Характеристики">35</param>
 <param name="Кол-во в зав.упаковке" group="Характеристики">1</param>
-<quantity location="Основной склад">27</quantity><quantity location="Владивосток">21</quantity>
+<quantity location="Основной склад">7</quantity><quantity location="Владивосток">21</quantity>
 </offer>
 <offer id='"00006158"' available="true">
 <name>Рым-болт U-образный D8 мм, Lрез. 35 мм</name><price>486</price><currencyId>RUR</currencyId>
